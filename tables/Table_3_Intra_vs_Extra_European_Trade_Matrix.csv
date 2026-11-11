@@ -1,0 +1,25 @@
+Policy_Era,Trade_Channel,Turnover_USD_B,Export_USD_B,Import_USD_B,Export_Weight_MMT,Import_Weight_MMT,Export_Unit_Price_USD_KG,Import_Unit_Price_USD_KG,Grubel_Lloyd_IIT
+Era 2: 1988-1999 (Internal Market & Early Aquaculture),Intra-EU27 Single Market,66.75,34.512,32.238,11.993,11.78,2.88,2.74,0.966
+Era 2: 1988-1999 (Internal Market & Early Aquaculture),Extra-European Rest of World,61.196,14.772,46.424,9.806,14.491,1.51,3.2,0.483
+Era 2: 1988-1999 (Internal Market & Early Aquaculture),EU-Norway Salmonid Corridor,22.068,10.167,11.901,4.346,4.499,2.34,2.65,0.921
+Era 2: 1988-1999 (Internal Market & Early Aquaculture),EU-UK Trade & Cooperation Corridor,14.101,7.0,7.101,2.161,2.365,3.24,3.0,0.993
+Era 2: 1988-1999 (Internal Market & Early Aquaculture),EU-Iceland North Atlantic Corridor,5.502,2.804,2.698,0.722,0.708,3.88,3.81,0.981
+Era 2: 1988-1999 (Internal Market & Early Aquaculture),Other Intra-European (EFTA / Regional),5.311,2.762,2.55,0.935,1.138,2.95,2.24,0.96
+Era 2: 1988-1999 (Internal Market & Early Aquaculture),EU-Switzerland Alpine Corridor,1.7,0.6,1.1,0.078,0.149,7.66,7.39,0.706
+Era 2: 1988-1999 (Internal Market & Early Aquaculture),EU-Türkiye Mediterranean Corridor,0.919,0.444,0.475,0.201,0.217,2.22,2.19,0.967
+Era 3: 2000-2014 (Eastern Enlargement & SPS Modernization),Intra-EU27 Single Market,268.208,143.035,125.173,33.688,31.042,4.25,4.03,0.933
+Era 3: 2000-2014 (Eastern Enlargement & SPS Modernization),Extra-European Rest of World,229.993,66.228,163.765,29.232,37.764,2.27,4.34,0.576
+Era 3: 2000-2014 (Eastern Enlargement & SPS Modernization),EU-Norway Salmonid Corridor,97.909,44.778,53.131,11.35,11.951,3.95,4.45,0.915
+Era 3: 2000-2014 (Eastern Enlargement & SPS Modernization),EU-UK Trade & Cooperation Corridor,49.769,25.456,24.314,5.729,5.607,4.44,4.34,0.977
+Era 3: 2000-2014 (Eastern Enlargement & SPS Modernization),Other Intra-European (EFTA / Regional),15.429,7.862,7.567,2.261,2.66,3.48,2.84,0.981
+Era 3: 2000-2014 (Eastern Enlargement & SPS Modernization),EU-Iceland North Atlantic Corridor,8.803,4.568,4.235,1.058,0.918,4.32,4.61,0.962
+Era 3: 2000-2014 (Eastern Enlargement & SPS Modernization),EU-Switzerland Alpine Corridor,4.147,1.829,2.317,0.192,0.228,9.53,10.16,0.882
+Era 3: 2000-2014 (Eastern Enlargement & SPS Modernization),EU-Türkiye Mediterranean Corridor,3.099,1.57,1.528,0.414,0.399,3.79,3.83,0.987
+"Era 4: 2015-2025 (Multipolarity, Shocks & Re-alignment)",Intra-EU27 Single Market,456.813,242.584,214.228,41.949,37.929,5.78,5.65,0.938
+"Era 4: 2015-2025 (Multipolarity, Shocks & Re-alignment)",Extra-European Rest of World,329.311,110.452,218.86,27.586,41.367,4.0,5.29,0.671
+"Era 4: 2015-2025 (Multipolarity, Shocks & Re-alignment)",EU-Norway Salmonid Corridor,191.387,83.093,108.294,14.758,16.869,5.63,6.42,0.868
+"Era 4: 2015-2025 (Multipolarity, Shocks & Re-alignment)",EU-UK Trade & Cooperation Corridor,55.394,26.276,29.118,4.625,5.208,5.68,5.59,0.949
+"Era 4: 2015-2025 (Multipolarity, Shocks & Re-alignment)",Other Intra-European (EFTA / Regional),27.804,13.164,14.64,2.414,3.1,5.45,4.72,0.947
+"Era 4: 2015-2025 (Multipolarity, Shocks & Re-alignment)",EU-Iceland North Atlantic Corridor,19.97,10.715,9.256,2.12,1.676,5.05,5.52,0.927
+"Era 4: 2015-2025 (Multipolarity, Shocks & Re-alignment)",EU-Türkiye Mediterranean Corridor,13.208,5.883,7.324,1.156,1.265,5.09,5.79,0.891
+"Era 4: 2015-2025 (Multipolarity, Shocks & Re-alignment)",EU-Switzerland Alpine Corridor,9.724,4.718,5.007,0.38,0.396,12.43,12.65,0.97

@@ -1,0 +1,33 @@
+Country_ISO3,Country_Name,Macro_Region,Is_ReExport_Hub,Is_Microstate,Outlier_Rule,Mean_Per_Capita_KG,CV_Domestic_Production,CV_Per_Capita_Supply,Detrended_CV_Supply,Volatility_Reduction_Pct,Import_Dependence_Pct,Import_Partner_HHI,Mean_RCA
+AUT,Austria,Western Europe,False,False,Standard,8.19,0.2373,0.0983,0.094,58.56,109.4,1148.1675886419725,1.7755555555555556
+BEL,Belgium,Western Europe,True,False,Logistical re-export hub,16.93,0.238,0.2598,0.1325,-9.18,163.91,1485.8600383832277,1.2555555555555555
+BGR,Bulgaria,Central & Eastern Europe,False,False,Historical transition volatility,5.14,0.5381,0.383,0.1947,28.83,78.42,473.47986611534895,1.7622222222222221
+CHE,Switzerland,Western Europe,False,False,Standard,10.19,0.1565,0.1365,0.0726,12.76,97.56,722.1179960170557,0.8066666666666668
+CYP,Cyprus,Southern Europe,False,True,Microstate (<1.5M population),38.92,1.3394,0.7924,0.6716,40.84,51.15,734.3281896087533,4.094444444444444
+CZE,Czechia,Central & Eastern Europe,False,False,Standard,7.08,0.0514,0.0803,0.0743,-56.25,98.26,693.9994540674039,0.4588888888888889
+DEU,Germany,Western Europe,False,False,Standard,8.51,0.1411,0.2316,0.0694,-64.12,164.21,703.9539775544633,0.9044444444444443
+DNK,Denmark,Northern Europe,True,False,Logistical re-export hub,223.4,0.4482,0.3382,0.1442,24.54,100.75,1534.8551860613252,1.0855555555555556
+ESP,Spain,Southern Europe,False,False,Standard,42.0,0.1111,0.1291,0.0616,-16.12,80.49,354.9453009900479,2.5433333333333334
+EST,Estonia,Central & Eastern Europe,False,False,Standard,20.78,0.2274,0.8011,0.4188,-252.27,167.11,1246.8887747630308,1.5044444444444445
+FIN,Finland,Northern Europe,False,False,Standard,44.08,0.1221,0.2386,0.1261,-95.42,45.71,3125.6657744646313,0.8066666666666665
+FRA,France,Western Europe,False,False,Standard,23.83,0.1393,0.0456,0.0357,67.25,71.84,524.2868585167975,1.4166666666666667
+GBR,United Kingdom of Great Britain and Northern Ireland,Western Europe,False,False,Standard,17.47,0.0859,0.1755,0.0697,-104.33,80.82,412.5971445760423,0.9499999999999998
+GRC,Greece,Southern Europe,False,False,Standard,25.81,0.0923,0.1073,0.0932,-16.2,67.33,524.5958976640408,5.331111111111111
+HRV,Croatia,Central & Eastern Europe,False,False,Standard,16.69,0.4742,0.3727,0.1307,21.4,67.83,880.7885590587957,2.511111111111111
+HUN,Hungary,Central & Eastern Europe,False,False,Standard,5.48,0.1501,0.2403,0.1648,-60.03,68.78,800.8772975609554,0.7566666666666666
+IRL,Ireland,Western Europe,False,False,Standard,40.99,0.1571,0.2444,0.2014,-55.61,60.29,2437.5618452196563,0.9444444444444444
+ISL,Iceland,Northern Europe,False,True,Microstate (<1.5M population),3088.17,0.2314,0.4199,0.2792,-81.47,12.0,1180.3841170480691,1.4355555555555555
+ITA,Italy,Southern Europe,False,False,Standard,21.05,0.2558,0.0415,0.0398,83.76,76.59,722.7736677804245,1.6577777777777778
+LTU,Lithuania,Central & Eastern Europe,False,False,Standard,41.09,0.3649,0.2862,0.2238,21.58,82.29,1137.6281003805962,0.69
+LUX,Luxembourg,Western Europe,False,True,Microstate (<1.5M population),17.02,0.6846,0.0977,,85.72,119.03,1506.2893152340262,1.4333333333333333
+LVA,Latvia,Central & Eastern Europe,False,False,Standard,32.65,0.2992,0.387,0.3473,-29.35,82.7,1189.7022511899581,1.432222222222222
+MLT,Malta,Southern Europe,False,True,Microstate (<1.5M population),70.16,0.8067,0.6382,0.2925,20.89,90.33,1622.2522034867886,0.3133333333333333
+NLD,Netherlands (Kingdom of the),Western Europe,True,False,Logistical re-export hub,21.02,0.1944,0.5237,0.2407,-169.33,256.58,988.2875492538491,1.2744444444444445
+NOR,Norway,Northern Europe,False,False,Standard,394.77,0.1502,0.1301,0.1044,13.36,32.96,2133.6611356714056,0.6
+POL,Poland,Central & Eastern Europe,False,False,Standard,10.35,0.3479,0.1322,0.0883,62.0,102.36,1853.2956589506816,0.758888888888889
+PRT,Portugal,Southern Europe,False,False,Standard,43.71,0.183,0.078,0.0571,57.37,86.42,1842.5452592935499,1.327777777777778
+ROU,Romania,Central & Eastern Europe,False,False,Standard,5.03,0.9988,0.2934,0.2182,70.63,74.62,664.9206244588845,2.47
+SVK,Slovakia,Central & Eastern Europe,False,False,Standard,5.61,0.2444,0.1121,0.0858,54.12,95.94,726.3794008181518,0.9933333333333333
+SVN,Slovenia,Central & Eastern Europe,False,False,Standard,7.13,0.2854,0.0651,0.063,77.17,123.42,1100.239183991549,1.3733333333333333
+SWE,Sweden,Northern Europe,False,False,Standard,25.19,0.2903,0.2405,0.0988,17.17,204.5,7054.958568778944,0.4722222222222221
+TUR,Türkiye,Southern Europe,False,False,Standard,9.78,0.2116,0.1304,0.1147,38.39,22.57,1360.872271914075,3.5511111111111107

@@ -1,0 +1,21 @@
+Rank,Partner_ISO3,Country_Name,Supplier_Archetype,Import_Value_USD_B,Value_Share_Pct,Import_Volume_kt,Volume_Share_Pct,CIF_Unit_Value_USD_kg,Dominant_Species_Group,Dominant_Processing_Form,Production_Mode,Primary_Hazard_Vector
+1,CHN,China,Global Processing Hubs,20.25,10.43,4714.6,12.7,4.3,"Cod, Hake, Pollock & Whitefish",Frozen Fillet & Meat,Reprocessed Wild Marine & Farmed,Poor temperature control
+2,ECU,Ecuador,Tropical Farmed Aquaculture,16.71,8.6,2966.4,7.99,5.63,Shrimp & Prawns,Frozen Whole Round,Intensive Coastal Aquaculture,Vibrio cholerae
+3,MAR,Morocco,Upwelling & Ocean Tuna Fisheries,15.08,7.77,2681.4,7.23,5.63,"Squid, Cuttlefish & Octopus",Frozen Whole Round,Upwelling Marine Wild Capture,Poor temperature control
+4,VNM,Viet Nam,Tropical Farmed Aquaculture,13.8,7.1,2452.5,6.61,5.63,Shrimp & Prawns,Frozen Whole Round,Intensive Freshwater & Brackish Aquaculture,Mercury
+5,USA,USA,Americas Marine Capture,11.19,5.76,2460.5,6.63,4.55,"Cod, Hake, Pollock & Whitefish",Frozen Fillet & Meat,Marine Wild Capture,Poor temperature control
+6,IND,India,Tropical Farmed Aquaculture,10.36,5.34,1683.7,4.54,6.15,Shrimp & Prawns,Frozen Whole Round,Intensive Coastal Aquaculture,Nitrofurans
+7,RUS,Russian Federation,North Atlantic & Arctic Capture,7.91,4.07,1843.0,4.97,4.29,"Cod, Hake, Pollock & Whitefish",Frozen Fillet & Meat,Arctic & Boreal Marine Wild Capture,Poor temperature control
+8,ARG,Argentina,Americas Marine Capture,7.64,3.94,1349.8,3.64,5.66,Shrimp & Prawns,Frozen Whole Round,South Atlantic Marine Wild Capture,Poor temperature control
+9,GRL,Greenland,North Atlantic & Arctic Capture,7.45,3.84,1696.1,4.57,4.4,Shrimp & Prawns,Frozen Whole Round,Arctic Marine Wild Capture,Cadmium
+10,FRO,Faroe Isds,Cold-Water Farmed Salmonids,6.28,3.23,1443.9,3.89,4.35,Atlantic & Pacific Salmon,Fresh / Chilled Whole Round,Marine Aquaculture & Pelagic Capture,None / Low Frequency
+11,CAN,Canada,Americas Marine Capture,5.72,2.95,628.2,1.69,9.11,Shrimp & Prawns,Frozen Whole Round,Marine Wild Capture,Poor temperature control
+12,CHL,Chile,Cold-Water Farmed Salmonids,5.23,2.69,1121.5,3.02,4.66,Atlantic & Pacific Salmon,Frozen Fillet & Meat,Marine Cold-Water Aquaculture,Poor temperature control
+13,THA,Thailand,Global Processing Hubs,3.94,2.03,648.0,1.75,6.09,Bluefin Tuna & Major Tunas,Prepared / Preserved / Canned,Reprocessed Tuna & Processed Shrimp,Cadmium
+14,PER,Peru,Upwelling & Ocean Tuna Fisheries,3.84,1.98,1038.7,2.8,3.7,"Squid, Cuttlefish & Octopus",Frozen Whole Round,Upwelling Marine Wild Capture,Poor temperature control
+15,IDN,Indonesia,Tropical Farmed Aquaculture,3.64,1.88,539.8,1.45,6.75,Bluefin Tuna & Major Tunas,Prepared / Preserved / Canned,Coastal Aquaculture & Tuna Capture,Mercury
+16,NAM,Namibia,Upwelling & Ocean Tuna Fisheries,3.38,1.74,707.5,1.91,4.78,"Cod, Hake, Pollock & Whitefish",Frozen Fillet & Meat,Benguela Upwelling Marine Capture,Poor temperature control
+17,MRT,Mauritania,Upwelling & Ocean Tuna Fisheries,3.26,1.68,374.0,1.01,8.72,"Squid, Cuttlefish & Octopus",Frozen Whole Round,Canary Current Marine Capture,Poor temperature control
+18,SYC,Seychelles,Upwelling & Ocean Tuna Fisheries,3.17,1.63,735.9,1.98,4.31,Bluefin Tuna & Major Tunas,Prepared / Preserved / Canned,Western Indian Ocean Tuna Capture,Poor temperature control
+19,BGD,Bangladesh,Tropical Farmed Aquaculture,2.97,1.53,274.4,0.74,10.83,Shrimp & Prawns,Frozen Whole Round,Inland Freshwater Aquaculture,Leucomalachite green
+20,MUS,Mauritius,Upwelling & Ocean Tuna Fisheries,2.9,1.49,588.9,1.59,4.93,Bluefin Tuna & Major Tunas,Prepared / Preserved / Canned,Western Indian Ocean Tuna Capture,Poor temperature control

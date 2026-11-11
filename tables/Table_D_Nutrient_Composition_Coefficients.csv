@@ -1,0 +1,18 @@
+Species_Group,Edible_Yield_Fraction,Protein_g_per_100g,EPA_DHA_mg_per_100g,Vitamin_B12_ug_per_100g,Iron_mg_per_100g,Zinc_mg_per_100g,Citation_Source,Data_Status
+Atlantic & Pacific Salmon,0.65,20.4,1850.0,3.2,0.4,0.42,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+Bluefin Tuna & Major Tunas,0.7,23.3,850.0,2.2,1.02,0.6,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+"Cod, Hake, Pollock & Whitefish",0.55,17.8,220.0,1.1,0.32,0.45,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+"Crabs, Lobsters & Other Crustaceans",0.45,18.1,350.0,4.0,1.25,3.5,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+European Seabass,0.6,19.8,780.0,2.0,0.38,0.48,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+Flatfish & Turbot,0.55,18.2,410.0,1.5,0.36,0.52,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+Gilthead Seabream,0.6,19.7,720.0,2.1,0.4,0.46,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+"Herring, Sardines & Small Pelagics",0.7,19.5,1980.0,11.0,1.4,1.3,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+Live Aquaculture Fry & Ornamental,0.5,16.0,300.0,1.0,0.5,0.5,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+Mackerel & Horse Mackerel,0.65,18.6,1650.0,8.7,1.2,0.88,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+"Mussels, Oysters & Bivalves",0.25,11.9,480.0,16.0,3.9,2.7,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+Other Marine & Freshwater Finfish,0.6,18.5,500.0,2.5,0.6,0.6,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+"Pangasius, Tilapia & Freshwater Catfish",0.6,16.2,180.0,1.6,0.38,0.5,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+Rainbow & Freshwater Trout,0.65,19.9,950.0,4.5,0.48,0.62,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+"Sea Cucumber, Urchins & Invertebrates",0.35,13.0,250.0,2.0,1.5,1.8,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+Shrimp & Prawns,0.55,20.1,310.0,1.5,0.52,1.2,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value
+"Squid, Cuttlefish & Octopus",0.75,16.5,490.0,2.8,1.1,1.5,Golden et al. (2021) Nature 598:315-320 (AFCD); FAO/INFOODS uFiSh,Approximate published reference value

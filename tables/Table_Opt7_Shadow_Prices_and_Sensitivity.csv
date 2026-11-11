@@ -1,0 +1,7 @@
+Region,Baseline_Cost_USD_KG,Min_Cost_Portfolio_USD_KG,Balanced_Frontier_Cost_USD_KG,Shadow_Price_Minus_1pct_CV_USD_KG,Shadow_Price_Minus_005_LWE_USD_KG,Shadow_Price_Minus_025_Hazard_USD_KG,Shadow_Price_Plus_50mg_EPA_USD_KG,Annual_Capita_Shadow_Cost_Minus_1pct_CV_USD,Annual_Capita_Shadow_Cost_Minus_005_LWE_USD,Annual_Capita_Shadow_Cost_Minus_025_Hazard_USD,Annual_Capita_Shadow_Cost_Plus_50mg_EPA_USD
+Pan-Europe (All 32 Nations),5.508,4.263,4.938,0.5446,0.2267,0.2366,0.1013,11.654,4.851,5.063,2.168
+EU-27 Aggregate,5.574,4.329,5.0,0.4886,0.2305,0.2,0.2838,9.591,4.524,3.926,5.571
+Western Europe,6.135,4.754,5.616,0.1559,0.3579,0.2122,0.5347,2.174,4.991,2.959,7.457
+Southern Europe,5.491,4.544,4.879,0.3122,0.1899,0.4036,0.1134,6.756,4.108,8.733,2.454
+Central & Eastern Europe,4.462,3.501,3.937,0.3153,0.224,0.8496,0.5947,3.273,2.326,8.82,6.174
+Northern Europe,5.399,4.534,4.791,0.4997,0.3024,0.3634,0.2868,9.009,5.451,6.551,5.171

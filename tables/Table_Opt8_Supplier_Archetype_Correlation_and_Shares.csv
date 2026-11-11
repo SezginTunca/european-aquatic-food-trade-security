@@ -1,0 +1,9 @@
+Supplier_Archetype,Observed_Share_Pct,Biosecurity_Optimal_Share_Pct,Balanced_Frontier_Share_Pct,Minimum_Volatility_Share_Pct,Corr_1,Corr_2,Corr_3,Corr_4,Corr_5,Corr_6,Corr_7,Corr_8
+Intra-European Core,61.69,69.19,65.98,62.78,1.0,0.395,0.528,0.239,0.1,0.496,0.34,0.531
+Cold-Water Farmed Salmonids,2.65,7.25,6.99,6.73,0.395,1.0,0.138,0.019,0.269,0.046,0.503,0.538
+North Atlantic & Arctic Capture,3.66,2.37,2.98,3.59,0.528,0.138,1.0,0.21,-0.348,0.607,-0.199,0.207
+Upwelling & Ocean Tuna Fisheries,6.33,10.0,10.0,10.0,0.239,0.019,0.21,1.0,-0.151,0.302,-0.04,0.268
+Tropical Farmed Aquaculture,8.17,5.19,8.05,10.9,0.1,0.269,-0.348,-0.151,1.0,-0.36,0.695,0.465
+Other Third Countries,7.38,2.0,2.0,2.0,0.496,0.046,0.607,0.302,-0.36,1.0,-0.264,0.207
+Global Processing Hubs,5.54,2.0,2.0,2.0,0.34,0.503,-0.199,-0.04,0.695,-0.264,1.0,0.593
+Americas Marine Capture,4.58,2.0,2.0,2.0,0.531,0.538,0.207,0.268,0.465,0.207,0.593,1.0

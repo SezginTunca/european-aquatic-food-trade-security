@@ -1,0 +1,253 @@
+Region,Sweep_Type,Preference_Weight_Alpha,Supply_Volatility_CV_Pct,Wholesale_Unit_Cost_USD_KG,Mean_Trophic_Level,LWE_Biomass_Multiplier,Hazard_Rate_per_100kt,Daily_EPA_DHA_mg_Capita
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.0,10.8959,4.2382,3.4977,1.6052,2.3544,387.94
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.0,11.8345,4.2043,3.4883,1.6343,2.3905,385.69
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.05,10.8959,4.2382,3.4977,1.6052,2.3544,387.94
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.05,11.8345,4.2043,3.4883,1.6343,2.3905,385.69
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.1,10.7387,4.2453,3.4999,1.6009,2.3629,388.44
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.1,11.5341,4.212,3.4894,1.6213,2.3229,386.06
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.15,10.3087,4.274,3.5142,1.5868,2.3629,390.58
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.15,11.7722,4.2197,3.4941,1.6236,2.2526,385.2
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.2,10.3087,4.274,3.5142,1.5868,2.3629,390.58
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.2,11.9519,4.2279,3.4979,1.6224,2.2179,385.97
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.25,10.3086,4.274,3.5142,1.5868,2.3629,390.58
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.25,11.9519,4.2765,3.5491,1.6161,2.0432,390.08
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.3,10.3086,4.274,3.5142,1.5868,2.3629,390.58
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.3,11.9519,4.2765,3.5491,1.6161,2.0432,390.08
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.35,10.1564,4.306,3.5069,1.5751,2.3629,391.72
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.35,11.9519,4.2765,3.5491,1.6161,2.0432,390.08
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.4,9.1995,4.5711,3.4732,1.545,2.3629,393.57
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.4,11.9519,4.3443,3.5374,1.5774,1.9968,390.66
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.45,9.155,4.5849,3.4714,1.5434,2.3629,393.66
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.45,11.9519,4.3443,3.5374,1.5774,1.9968,390.66
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.5,8.9102,4.6932,3.4708,1.529,2.3629,409.38
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.5,11.9519,4.3443,3.5374,1.5774,1.9968,390.66
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.55,8.6346,4.8275,3.47,1.5112,2.3629,428.85
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.55,11.9519,4.4157,3.5549,1.5695,1.9512,394.06
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.6,8.6346,4.8275,3.47,1.5112,2.3629,428.85
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.6,11.9519,4.5338,3.5351,1.5502,1.8944,407.91
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.65,8.5707,4.8796,3.4768,1.5118,2.3629,439.91
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.65,11.9519,4.5338,3.5351,1.5502,1.8944,407.91
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.7,8.5707,4.8796,3.4768,1.5118,2.3629,439.91
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.7,11.9519,4.5338,3.5351,1.5502,1.8944,407.91
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.75,8.5707,4.8796,3.4768,1.5118,2.3629,439.91
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.75,11.9519,4.5338,3.5351,1.5502,1.8944,407.91
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.8,8.5328,4.9471,3.4805,1.5149,2.3629,440.57
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.8,11.8357,4.9635,3.5344,1.5231,1.819,467.81
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.85,8.4025,5.2284,3.4957,1.5281,2.3629,443.34
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.85,11.2332,5.0228,3.5177,1.49,1.8793,469.36
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.9,8.378,5.2958,3.4994,1.5313,2.3629,444.0
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.9,11.2332,5.0228,3.5177,1.49,1.8793,469.36
+Pan-Europe (All 32 Nations),Stability_vs_Cost,0.95,8.378,5.2958,3.4994,1.5313,2.3629,444.0
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,0.95,11.2332,5.0228,3.5177,1.49,1.8793,469.36
+Pan-Europe (All 32 Nations),Stability_vs_Cost,1.0,8.378,5.2958,3.4994,1.5313,2.3629,444.0
+Pan-Europe (All 32 Nations),Ecology_Hazard_vs_Cost,1.0,11.2332,5.0228,3.5177,1.49,1.8793,469.36
+EU-27 Aggregate,Stability_vs_Cost,0.0,10.6109,4.3027,3.4915,1.6011,2.38,353.08
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.0,11.55,4.267,3.483,1.6333,2.446,351.35
+EU-27 Aggregate,Stability_vs_Cost,0.05,10.5578,4.3038,3.4932,1.6011,2.38,353.36
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.05,11.55,4.267,3.483,1.6333,2.446,351.35
+EU-27 Aggregate,Stability_vs_Cost,0.1,10.4672,4.3086,3.4949,1.5987,2.38,353.58
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.1,11.2212,4.2768,3.4844,1.6167,2.3592,351.78
+EU-27 Aggregate,Stability_vs_Cost,0.15,9.9505,4.3384,3.5082,1.5839,2.38,355.38
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.15,11.4914,4.285,3.4894,1.619,2.2846,350.94
+EU-27 Aggregate,Stability_vs_Cost,0.2,9.9505,4.3384,3.5082,1.5839,2.38,355.38
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.2,11.55,4.2858,3.4886,1.6189,2.2802,351.02
+EU-27 Aggregate,Stability_vs_Cost,0.25,9.9505,4.3384,3.5082,1.5839,2.38,355.38
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.25,11.55,4.3399,3.5455,1.6118,2.0856,355.22
+EU-27 Aggregate,Stability_vs_Cost,0.3,9.8415,4.3603,3.5032,1.5758,2.38,356.1
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.3,11.55,4.3399,3.5455,1.6118,2.0856,355.22
+EU-27 Aggregate,Stability_vs_Cost,0.35,9.414,4.4678,3.4895,1.5636,2.38,356.78
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.35,11.55,4.3948,3.5524,1.5876,2.0284,359.41
+EU-27 Aggregate,Stability_vs_Cost,0.4,8.8263,4.6295,3.4689,1.5453,2.38,357.81
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.4,11.55,4.4069,3.5389,1.5762,2.0302,357.1
+EU-27 Aggregate,Stability_vs_Cost,0.45,8.8263,4.6295,3.4689,1.5453,2.38,357.81
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.45,11.55,4.4069,3.5389,1.5762,2.0302,357.1
+EU-27 Aggregate,Stability_vs_Cost,0.5,8.4415,4.8018,3.4679,1.5224,2.38,380.74
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.5,11.55,4.4069,3.5389,1.5762,2.0302,357.1
+EU-27 Aggregate,Stability_vs_Cost,0.55,8.2555,4.8958,3.4674,1.5099,2.38,393.24
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.55,11.55,4.4703,3.5528,1.5694,1.9887,359.62
+EU-27 Aggregate,Stability_vs_Cost,0.6,8.2555,4.8958,3.4674,1.5099,2.38,393.24
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.6,11.55,4.6076,3.5297,1.5469,1.9233,374.55
+EU-27 Aggregate,Stability_vs_Cost,0.65,8.2218,4.9252,3.4712,1.5102,2.38,398.97
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.65,11.55,4.6076,3.5297,1.5469,1.9233,374.55
+EU-27 Aggregate,Stability_vs_Cost,0.7,8.1937,4.9511,3.4746,1.5105,2.38,404.0
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.7,11.55,4.6076,3.5297,1.5469,1.9233,374.55
+EU-27 Aggregate,Stability_vs_Cost,0.75,8.1937,4.9511,3.4746,1.5105,2.38,404.0
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.75,11.55,4.6076,3.5297,1.5469,1.9233,374.55
+EU-27 Aggregate,Stability_vs_Cost,0.8,8.1937,4.9511,3.4746,1.5105,2.38,404.0
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.8,11.55,5.0184,3.5296,1.5231,1.8454,426.08
+EU-27 Aggregate,Stability_vs_Cost,0.85,8.1937,4.9511,3.4746,1.5105,2.38,404.0
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.85,10.9794,5.0721,3.5145,1.4931,1.9,427.36
+EU-27 Aggregate,Stability_vs_Cost,0.9,8.1589,5.0819,3.4817,1.5167,2.38,405.18
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.9,10.9794,5.0721,3.5145,1.4931,1.9,427.36
+EU-27 Aggregate,Stability_vs_Cost,0.95,8.1212,5.3041,3.4937,1.5271,2.38,407.19
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,0.95,10.9794,5.0721,3.5145,1.4931,1.9,427.36
+EU-27 Aggregate,Stability_vs_Cost,1.0,8.1197,5.3178,3.4945,1.5277,2.38,407.31
+EU-27 Aggregate,Ecology_Hazard_vs_Cost,1.0,10.9794,5.0721,3.5145,1.4931,1.9,427.36
+Western Europe,Stability_vs_Cost,0.0,18.0401,4.7221,3.467,1.6482,2.4159,234.85
+Western Europe,Ecology_Hazard_vs_Cost,0.0,18.0306,4.7196,3.4668,1.6519,2.4269,235.06
+Western Europe,Stability_vs_Cost,0.05,18.0401,4.7221,3.467,1.6482,2.4159,234.85
+Western Europe,Ecology_Hazard_vs_Cost,0.05,18.0306,4.7196,3.4668,1.6519,2.4269,235.06
+Western Europe,Stability_vs_Cost,0.1,17.8949,4.7259,3.4709,1.6482,2.4254,235.44
+Western Europe,Ecology_Hazard_vs_Cost,0.1,18.24,4.7426,3.5141,1.6489,2.2088,236.7
+Western Europe,Stability_vs_Cost,0.15,17.7016,4.7347,3.4763,1.6429,2.4254,235.96
+Western Europe,Ecology_Hazard_vs_Cost,0.15,18.24,4.7426,3.5141,1.6489,2.2088,236.7
+Western Europe,Stability_vs_Cost,0.2,16.9654,4.7825,3.4887,1.6221,2.4254,236.98
+Western Europe,Ecology_Hazard_vs_Cost,0.2,18.3885,4.7513,3.52,1.6477,2.1714,237.25
+Western Europe,Stability_vs_Cost,0.25,16.9654,4.7825,3.4887,1.6221,2.4254,236.98
+Western Europe,Ecology_Hazard_vs_Cost,0.25,18.3885,4.7513,3.52,1.6477,2.1714,237.25
+Western Europe,Stability_vs_Cost,0.3,16.7663,4.8097,3.487,1.6172,2.4254,236.98
+Western Europe,Ecology_Hazard_vs_Cost,0.3,18.3885,4.7513,3.52,1.6477,2.1714,237.25
+Western Europe,Stability_vs_Cost,0.35,15.7673,4.9857,3.4684,1.6007,2.4254,237.64
+Western Europe,Ecology_Hazard_vs_Cost,0.35,18.3885,4.7513,3.52,1.6477,2.1714,237.25
+Western Europe,Stability_vs_Cost,0.4,14.6654,5.1889,3.447,1.5817,2.4254,238.41
+Western Europe,Ecology_Hazard_vs_Cost,0.4,18.3885,4.8573,3.5514,1.6207,2.052,242.38
+Western Europe,Stability_vs_Cost,0.45,14.4634,5.2434,3.4468,1.5763,2.4254,242.24
+Western Europe,Ecology_Hazard_vs_Cost,0.45,18.3885,4.8573,3.5514,1.6207,2.052,242.38
+Western Europe,Stability_vs_Cost,0.5,13.2761,5.5984,3.4453,1.5411,2.4254,267.24
+Western Europe,Ecology_Hazard_vs_Cost,0.5,18.3885,4.8573,3.5514,1.6207,2.052,242.38
+Western Europe,Stability_vs_Cost,0.55,13.1642,5.6362,3.4451,1.5374,2.4254,269.9
+Western Europe,Ecology_Hazard_vs_Cost,0.55,18.3885,4.8573,3.5514,1.6207,2.052,242.38
+Western Europe,Stability_vs_Cost,0.6,13.1642,5.6362,3.4451,1.5374,2.4254,269.9
+Western Europe,Ecology_Hazard_vs_Cost,0.6,18.3885,4.9515,3.5672,1.6137,2.0047,246.35
+Western Europe,Stability_vs_Cost,0.65,13.1642,5.6362,3.4451,1.5374,2.4254,269.9
+Western Europe,Ecology_Hazard_vs_Cost,0.65,18.3885,5.1624,3.54,1.5847,1.9329,260.82
+Western Europe,Stability_vs_Cost,0.7,13.1642,5.6362,3.4451,1.5374,2.4254,269.9
+Western Europe,Ecology_Hazard_vs_Cost,0.7,18.3885,5.2641,3.5304,1.5732,1.9071,266.66
+Western Europe,Stability_vs_Cost,0.75,13.1642,5.6362,3.4451,1.5374,2.4254,269.9
+Western Europe,Ecology_Hazard_vs_Cost,0.75,18.3885,5.2641,3.5304,1.5732,1.9071,266.66
+Western Europe,Stability_vs_Cost,0.8,13.1589,5.6434,3.445,1.5371,2.4254,269.72
+Western Europe,Ecology_Hazard_vs_Cost,0.8,18.3885,5.2641,3.5304,1.5732,1.9071,266.66
+Western Europe,Stability_vs_Cost,0.85,13.1069,5.7149,3.4442,1.5342,2.4254,267.93
+Western Europe,Ecology_Hazard_vs_Cost,0.85,18.2581,5.5924,3.521,1.5503,1.8802,279.62
+Western Europe,Stability_vs_Cost,0.9,13.0993,5.7368,3.4461,1.5343,2.4254,270.01
+Western Europe,Ecology_Hazard_vs_Cost,0.9,18.2581,5.5924,3.521,1.5503,1.8802,279.62
+Western Europe,Stability_vs_Cost,0.95,13.0829,5.7936,3.4513,1.5348,2.4254,275.41
+Western Europe,Ecology_Hazard_vs_Cost,0.95,18.2581,5.5924,3.521,1.5503,1.8802,279.62
+Western Europe,Stability_vs_Cost,1.0,13.0829,5.7936,3.4513,1.5348,2.4254,275.41
+Western Europe,Ecology_Hazard_vs_Cost,1.0,18.2581,5.5924,3.521,1.5503,1.8802,279.62
+Southern Europe,Stability_vs_Cost,0.0,8.0692,4.4912,3.4996,1.59,2.896,333.08
+Southern Europe,Ecology_Hazard_vs_Cost,0.0,7.8585,4.4846,3.5271,1.6118,2.8382,329.17
+Southern Europe,Stability_vs_Cost,0.05,6.906,4.5085,3.5318,1.59,2.896,331.84
+Southern Europe,Ecology_Hazard_vs_Cost,0.05,7.8585,4.4846,3.5271,1.6118,2.8382,329.17
+Southern Europe,Stability_vs_Cost,0.1,6.5487,4.5241,3.5423,1.5823,2.896,332.65
+Southern Europe,Ecology_Hazard_vs_Cost,0.1,8.9991,4.4899,3.5116,1.6093,2.7476,331.02
+Southern Europe,Stability_vs_Cost,0.15,6.4936,4.5289,3.5446,1.58,2.896,333.0
+Southern Europe,Ecology_Hazard_vs_Cost,0.15,8.9991,4.4899,3.5116,1.6093,2.7476,331.02
+Southern Europe,Stability_vs_Cost,0.2,6.4936,4.5289,3.5446,1.58,2.896,333.0
+Southern Europe,Ecology_Hazard_vs_Cost,0.2,8.9991,4.4899,3.5116,1.6093,2.7476,331.02
+Southern Europe,Stability_vs_Cost,0.25,6.4691,4.5338,3.5458,1.5778,2.896,333.49
+Southern Europe,Ecology_Hazard_vs_Cost,0.25,8.9991,4.4899,3.5116,1.6093,2.7476,331.02
+Southern Europe,Stability_vs_Cost,0.3,6.3604,4.5586,3.5515,1.5666,2.896,336.0
+Southern Europe,Ecology_Hazard_vs_Cost,0.3,9.0189,4.4911,3.5119,1.6095,2.743,330.96
+Southern Europe,Stability_vs_Cost,0.35,6.3018,4.5756,3.5555,1.5589,2.896,337.72
+Southern Europe,Ecology_Hazard_vs_Cost,0.35,9.0189,4.5355,3.532,1.6065,2.6356,331.66
+Southern Europe,Stability_vs_Cost,0.4,5.9292,4.7112,3.5163,1.5483,2.896,335.68
+Southern Europe,Ecology_Hazard_vs_Cost,0.4,9.0189,4.6203,3.5859,1.6019,2.4427,335.88
+Southern Europe,Stability_vs_Cost,0.45,5.8598,4.7407,3.5113,1.5434,2.896,336.03
+Southern Europe,Ecology_Hazard_vs_Cost,0.45,9.0189,4.6203,3.5859,1.6019,2.4427,335.88
+Southern Europe,Stability_vs_Cost,0.5,5.8467,4.7478,3.513,1.5402,2.896,336.75
+Southern Europe,Ecology_Hazard_vs_Cost,0.5,9.0189,4.7347,3.5789,1.5754,2.3472,335.36
+Southern Europe,Stability_vs_Cost,0.55,5.8367,4.7546,3.5144,1.5372,2.896,337.46
+Southern Europe,Ecology_Hazard_vs_Cost,0.55,8.2378,4.7863,3.5837,1.5494,2.3507,335.72
+Southern Europe,Stability_vs_Cost,0.6,5.8272,4.7624,3.5156,1.5337,2.896,338.32
+Southern Europe,Ecology_Hazard_vs_Cost,0.6,8.2378,4.7863,3.5837,1.5494,2.3507,335.72
+Southern Europe,Stability_vs_Cost,0.65,5.8207,4.769,3.5166,1.5308,2.896,339.04
+Southern Europe,Ecology_Hazard_vs_Cost,0.65,8.2378,4.7863,3.5837,1.5494,2.3507,335.72
+Southern Europe,Stability_vs_Cost,0.7,5.8146,4.7769,3.5177,1.5278,2.896,339.95
+Southern Europe,Ecology_Hazard_vs_Cost,0.7,7.9889,4.8209,3.5715,1.5251,2.395,336.87
+Southern Europe,Stability_vs_Cost,0.75,5.806,4.7906,3.5195,1.5236,2.896,341.64
+Southern Europe,Ecology_Hazard_vs_Cost,0.75,7.9889,4.8209,3.5715,1.5251,2.395,336.87
+Southern Europe,Stability_vs_Cost,0.8,5.7933,4.8189,3.5201,1.5185,2.896,345.73
+Southern Europe,Ecology_Hazard_vs_Cost,0.8,7.6787,5.0336,3.5635,1.4951,2.3982,367.54
+Southern Europe,Stability_vs_Cost,0.85,5.7598,4.9247,3.5144,1.5168,2.896,349.56
+Southern Europe,Ecology_Hazard_vs_Cost,0.85,7.6787,5.0336,3.5635,1.4951,2.3982,367.54
+Southern Europe,Stability_vs_Cost,0.9,5.7531,4.9503,3.5122,1.5172,2.896,351.95
+Southern Europe,Ecology_Hazard_vs_Cost,0.9,7.6787,5.0336,3.5635,1.4951,2.3982,367.54
+Southern Europe,Stability_vs_Cost,0.95,5.7515,4.9622,3.5108,1.5176,2.896,354.05
+Southern Europe,Ecology_Hazard_vs_Cost,0.95,7.7527,5.081,3.5572,1.482,2.4296,374.44
+Southern Europe,Stability_vs_Cost,1.0,5.7511,4.9728,3.5096,1.518,2.896,355.95
+Southern Europe,Ecology_Hazard_vs_Cost,1.0,7.7527,5.081,3.5572,1.482,2.4296,374.44
+Central & Eastern Europe,Stability_vs_Cost,0.0,17.8193,3.3741,3.5069,1.6143,1.8899,220.36
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.0,14.5208,3.4919,3.5161,1.5744,1.674,224.27
+Central & Eastern Europe,Stability_vs_Cost,0.05,16.7132,3.3878,3.5122,1.6082,1.784,220.25
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.05,14.5208,3.4923,3.5213,1.5685,1.6394,224.26
+Central & Eastern Europe,Stability_vs_Cost,0.1,15.7917,3.4089,3.5115,1.6034,1.7076,220.98
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.1,14.5208,3.4923,3.5213,1.5685,1.6394,224.26
+Central & Eastern Europe,Stability_vs_Cost,0.15,15.2052,3.4345,3.5119,1.5906,1.6367,221.41
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.15,14.5208,3.4923,3.5213,1.5685,1.6394,224.26
+Central & Eastern Europe,Stability_vs_Cost,0.2,15.0153,3.4469,3.5096,1.5856,1.6124,222.4
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.2,14.5208,3.4923,3.5213,1.5685,1.6394,224.26
+Central & Eastern Europe,Stability_vs_Cost,0.25,14.4695,3.4971,3.5175,1.5728,1.6785,224.41
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.25,14.5208,3.5022,3.5394,1.5721,1.5955,225.25
+Central & Eastern Europe,Stability_vs_Cost,0.3,14.0467,3.545,3.5294,1.5589,1.7297,225.8
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.3,14.5208,3.5022,3.5394,1.5721,1.5955,225.25
+Central & Eastern Europe,Stability_vs_Cost,0.35,13.9328,3.5623,3.5235,1.5602,1.7983,226.48
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.35,14.5208,3.5023,3.5396,1.5722,1.5949,225.26
+Central & Eastern Europe,Stability_vs_Cost,0.4,13.7361,3.5961,3.5074,1.5479,1.8798,227.86
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.4,14.5208,3.5041,3.5421,1.5735,1.5895,225.35
+Central & Eastern Europe,Stability_vs_Cost,0.45,13.7361,3.5961,3.5074,1.5479,1.8798,227.86
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.45,14.5208,3.5499,3.5399,1.5593,1.5477,227.37
+Central & Eastern Europe,Stability_vs_Cost,0.5,13.7026,3.6061,3.5049,1.5459,1.8899,228.53
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.5,14.5208,3.5924,3.5447,1.5447,1.5241,227.93
+Central & Eastern Europe,Stability_vs_Cost,0.55,12.1579,4.1388,3.5591,1.5263,1.8899,225.73
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.55,14.5208,3.5924,3.5447,1.5447,1.5241,227.93
+Central & Eastern Europe,Stability_vs_Cost,0.6,11.164,4.5428,3.6003,1.5131,1.8899,223.51
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.6,14.5208,3.6098,3.5464,1.5451,1.5102,229.72
+Central & Eastern Europe,Stability_vs_Cost,0.65,11.0198,4.6113,3.6082,1.5103,1.8899,223.56
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.65,14.5208,3.6276,3.5481,1.5472,1.4946,231.95
+Central & Eastern Europe,Stability_vs_Cost,0.7,11.0173,4.6128,3.6089,1.5106,1.8899,223.27
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.7,14.5208,3.6453,3.5496,1.5468,1.486,233.48
+Central & Eastern Europe,Stability_vs_Cost,0.75,10.986,4.6388,3.6073,1.5064,1.8899,222.66
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.75,14.5208,3.6759,3.548,1.5425,1.4813,235.47
+Central & Eastern Europe,Stability_vs_Cost,0.8,10.9412,4.6867,3.6031,1.5021,1.8899,221.31
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.8,14.5208,3.8848,3.5557,1.529,1.4402,243.99
+Central & Eastern Europe,Stability_vs_Cost,0.85,10.9083,4.734,3.5989,1.4995,1.8899,219.87
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.85,14.5208,3.9766,3.5449,1.5117,1.4484,253.4
+Central & Eastern Europe,Stability_vs_Cost,0.9,10.9044,4.7415,3.5979,1.5007,1.8899,219.54
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.9,14.0322,4.1293,3.5712,1.5102,1.4308,250.86
+Central & Eastern Europe,Stability_vs_Cost,0.95,10.9037,4.7442,3.5975,1.5022,1.8899,219.35
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,0.95,13.404,4.3223,3.6063,1.5085,1.4177,246.04
+Central & Eastern Europe,Stability_vs_Cost,1.0,10.9035,4.7465,3.5971,1.5037,1.8899,219.18
+Central & Eastern Europe,Ecology_Hazard_vs_Cost,1.0,13.1554,4.4011,3.6231,1.5092,1.4132,242.65
+Northern Europe,Stability_vs_Cost,0.0,13.427,3.8257,3.5241,1.5345,1.5521,409.72
+Northern Europe,Ecology_Hazard_vs_Cost,0.0,9.3287,4.4509,3.4843,1.5439,1.5965,400.01
+Northern Europe,Stability_vs_Cost,0.05,12.7933,3.8369,3.4849,1.5345,1.5399,401.79
+Northern Europe,Ecology_Hazard_vs_Cost,0.05,9.3287,4.4509,3.4843,1.5439,1.5965,400.01
+Northern Europe,Stability_vs_Cost,0.1,12.1791,3.8623,3.4892,1.5345,1.4751,402.23
+Northern Europe,Ecology_Hazard_vs_Cost,0.1,9.3287,4.4512,3.4863,1.5451,1.5926,400.01
+Northern Europe,Stability_vs_Cost,0.15,12.152,3.864,3.4952,1.5345,1.4744,403.05
+Northern Europe,Ecology_Hazard_vs_Cost,0.15,9.3287,4.4534,3.4945,1.5507,1.5734,400.01
+Northern Europe,Stability_vs_Cost,0.2,12.1202,3.8682,3.4914,1.5345,1.4816,403.05
+Northern Europe,Ecology_Hazard_vs_Cost,0.2,9.3287,4.4568,3.5033,1.5569,1.5525,400.01
+Northern Europe,Stability_vs_Cost,0.25,11.4315,3.9938,3.486,1.5345,1.5284,400.01
+Northern Europe,Ecology_Hazard_vs_Cost,0.25,9.3287,4.4617,3.5127,1.5635,1.5302,400.01
+Northern Europe,Stability_vs_Cost,0.3,10.0008,4.3171,3.5002,1.5345,1.5521,401.84
+Northern Europe,Ecology_Hazard_vs_Cost,0.3,9.3287,4.4708,3.5245,1.5668,1.5078,400.01
+Northern Europe,Stability_vs_Cost,0.35,8.3472,4.7685,3.5193,1.5345,1.5521,418.91
+Northern Europe,Ecology_Hazard_vs_Cost,0.35,9.3287,4.5186,3.549,1.5556,1.4579,412.63
+Northern Europe,Stability_vs_Cost,0.4,7.8928,4.9195,3.5236,1.5345,1.5521,426.32
+Northern Europe,Ecology_Hazard_vs_Cost,0.4,9.3287,4.5877,3.5811,1.5506,1.381,430.48
+Northern Europe,Stability_vs_Cost,0.45,7.7885,4.9662,3.5246,1.5345,1.5521,426.87
+Northern Europe,Ecology_Hazard_vs_Cost,0.45,9.3287,4.6338,3.6034,1.5531,1.3321,440.81
+Northern Europe,Stability_vs_Cost,0.5,7.5504,5.0919,3.5347,1.5279,1.5521,429.56
+Northern Europe,Ecology_Hazard_vs_Cost,0.5,9.3287,4.6472,3.5995,1.543,1.3369,447.45
+Northern Europe,Stability_vs_Cost,0.55,7.3541,5.2167,3.5438,1.5164,1.5521,436.51
+Northern Europe,Ecology_Hazard_vs_Cost,0.55,9.3287,4.7235,3.5879,1.5243,1.3161,460.31
+Northern Europe,Stability_vs_Cost,0.6,7.229,5.3142,3.5509,1.5074,1.5521,441.95
+Northern Europe,Ecology_Hazard_vs_Cost,0.6,9.3287,4.7271,3.5869,1.5212,1.3189,462.41
+Northern Europe,Stability_vs_Cost,0.65,7.1466,5.3932,3.5567,1.5001,1.5521,446.35
+Northern Europe,Ecology_Hazard_vs_Cost,0.65,9.3287,4.7371,3.5842,1.5154,1.3235,465.72
+Northern Europe,Stability_vs_Cost,0.7,7.118,5.4268,3.5611,1.4994,1.5521,445.34
+Northern Europe,Ecology_Hazard_vs_Cost,0.7,9.3287,4.7513,3.5824,1.5087,1.3288,469.76
+Northern Europe,Stability_vs_Cost,0.75,7.0881,5.4729,3.5686,1.499,1.5521,442.02
+Northern Europe,Ecology_Hazard_vs_Cost,0.75,9.3287,4.7682,3.5818,1.5031,1.3327,473.25
+Northern Europe,Stability_vs_Cost,0.8,7.0662,5.5163,3.5759,1.4984,1.5521,438.76
+Northern Europe,Ecology_Hazard_vs_Cost,0.8,9.3287,4.8282,3.5903,1.4983,1.3277,473.22
+Northern Europe,Stability_vs_Cost,0.85,7.0557,5.5444,3.5804,1.4988,1.5521,436.34
+Northern Europe,Ecology_Hazard_vs_Cost,0.85,9.3287,4.8966,3.6,1.4948,1.3225,472.14
+Northern Europe,Stability_vs_Cost,0.9,7.0506,5.5647,3.5835,1.4996,1.5521,434.4
+Northern Europe,Ecology_Hazard_vs_Cost,0.9,9.3287,4.9654,3.61,1.4911,1.321,470.42
+Northern Europe,Stability_vs_Cost,0.95,7.0499,5.5692,3.5841,1.4999,1.5521,433.94
+Northern Europe,Ecology_Hazard_vs_Cost,0.95,9.3287,5.016,3.6198,1.4898,1.32,466.78
+Northern Europe,Stability_vs_Cost,1.0,7.0495,5.5771,3.5851,1.5006,1.5521,433.07
+Northern Europe,Ecology_Hazard_vs_Cost,1.0,9.3287,5.065,3.628,1.4881,1.3216,463.01

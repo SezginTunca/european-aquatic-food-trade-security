@@ -1,0 +1,577 @@
+Region,Portfolio_Regime,Species_Group,Short_Name,Weight_Share_Pct,Delta_vs_Observed_Pct_Pts
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),18.349,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),11.267,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),18.45,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,1.279,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),European Seabass,European Seabass,1.695,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),Flatfish & Turbot,Flatfish & Turbot,2.649,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),Gilthead Seabream,Gilthead Seabream,1.322,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),8.975,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,5.012,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),4.377,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,7.112,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.855,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,1.23,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.112,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,9.086,0.0
+Pan-Europe (All 32 Nations),1. Observed Baseline (2015–2024),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),7.228,0.0
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),21.652,3.303
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),12.168,0.901
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),8.303,-10.148
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.575,-0.703
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),European Seabass,European Seabass,0.763,-0.932
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),Flatfish & Turbot,Flatfish & Turbot,1.192,-1.457
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),Gilthead Seabream,Gilthead Seabream,0.595,-0.727
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),20.193,11.218
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,5.281,0.269
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),6.011,1.634
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.2,-3.912
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.835,-1.02
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,0.554,-0.677
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.038
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,10.722,1.636
+Pan-Europe (All 32 Nations),2. Minimum-Variance (Markowitz Stability),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),7.806,0.578
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),8.257,-10.092
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),10.816,-0.451
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),17.712,-0.738
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.575,-0.703
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,European Seabass,European Seabass,0.763,-0.932
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,Flatfish & Turbot,Flatfish & Turbot,2.907,0.257
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,Gilthead Seabream,Gilthead Seabream,0.595,-0.727
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),20.193,11.218
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,11.278,6.265
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),7.264,2.887
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,4.597,-2.515
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),4.355,2.5
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,0.554,-0.677
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.038
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,4.089,-4.997
+Pan-Europe (All 32 Nations),3. Minimum-Cost Nutrient-Adequate,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),5.894,-1.334
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),17.248,-1.101
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),5.203,-6.064
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),9.723,-8.728
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.575,-0.703
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,European Seabass,European Seabass,4.195,2.5
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,Flatfish & Turbot,Flatfish & Turbot,3.049,0.4
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,Gilthead Seabream,Gilthead Seabream,3.822,2.5
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),20.193,11.218
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,11.278,6.265
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),4.902,0.525
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.2,-3.912
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.835,-1.02
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.73,2.5
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.038
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,4.089,-4.997
+Pan-Europe (All 32 Nations),4. Ecological & Biosecurity Boundary,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),7.806,0.578
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),17.248,-1.101
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),8.756,-2.511
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),8.377,-10.073
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.575,-0.703
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,European Seabass,European Seabass,0.763,-0.932
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,Flatfish & Turbot,Flatfish & Turbot,3.049,0.4
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,Gilthead Seabream,Gilthead Seabream,0.595,-0.727
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),20.193,11.218
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,11.278,6.265
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),4.902,0.525
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.2,-3.912
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.835,-1.02
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.73,2.5
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.038
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,8.541,-0.545
+Pan-Europe (All 32 Nations),5. Balanced 4D Pareto-Optimal,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),7.806,0.578
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),16.147,-2.202
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),5.317,-5.95
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),9.665,-8.785
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.575,-0.703
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,European Seabass,European Seabass,0.763,-0.932
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,Flatfish & Turbot,Flatfish & Turbot,3.049,0.4
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,Gilthead Seabream,Gilthead Seabream,3.822,2.5
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),20.193,11.218
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,11.278,6.265
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),5.471,1.094
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.2,-3.912
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.835,-1.02
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.73,2.5
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.038
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,7.996,-1.09
+Pan-Europe (All 32 Nations),6. Planetary Health & EFSA Omega-3 Shift,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),7.806,0.578
+EU-27 Aggregate,1. Observed Baseline (2015–2024),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),19.226,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),10.802,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),18.105,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,1.31,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),European Seabass,European Seabass,1.699,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),Flatfish & Turbot,Flatfish & Turbot,2.853,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),Gilthead Seabream,Gilthead Seabream,1.409,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),9.044,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,4.025,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),4.736,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,6.986,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.744,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,1.331,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.114,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,8.77,0.0
+EU-27 Aggregate,1. Observed Baseline (2015–2024),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),7.848,0.0
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),22.0,2.774
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),11.666,0.864
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),8.147,-9.958
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.589,-0.72
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),European Seabass,European Seabass,0.764,-0.934
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),Flatfish & Turbot,Flatfish & Turbot,1.284,-1.569
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),Gilthead Seabream,Gilthead Seabream,0.634,-0.775
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),20.348,11.304
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,4.74,0.716
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),6.325,1.589
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.144,-3.842
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.785,-0.959
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,0.599,-0.732
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.036
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,10.349,1.579
+EU-27 Aggregate,2. Minimum-Variance (Markowitz Stability),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),8.475,0.628
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),8.652,-10.574
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),10.37,-0.432
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),17.381,-0.724
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.589,-0.72
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,European Seabass,European Seabass,0.764,-0.934
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,Flatfish & Turbot,Flatfish & Turbot,3.071,0.217
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,Gilthead Seabream,Gilthead Seabream,1.376,-0.033
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),20.348,11.304
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,10.025,6.0
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),7.534,2.798
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,4.568,-2.418
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),4.244,2.5
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,0.599,-0.732
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.036
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,3.947,-4.824
+EU-27 Aggregate,3. Minimum-Cost Nutrient-Adequate,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),6.383,-1.464
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),18.072,-1.154
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),4.861,-5.941
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),9.299,-8.806
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.589,-0.72
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,European Seabass,European Seabass,4.199,2.5
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,Flatfish & Turbot,Flatfish & Turbot,3.253,0.4
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,Gilthead Seabream,Gilthead Seabream,3.909,2.5
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),20.348,11.304
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,10.025,6.0
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),5.304,0.568
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.144,-3.842
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.785,-0.959
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.831,2.5
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.036
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,3.947,-4.824
+EU-27 Aggregate,4. Ecological & Biosecurity Boundary,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),8.284,0.437
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),18.072,-1.154
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),8.234,-2.568
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),8.147,-9.958
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.589,-0.72
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,European Seabass,European Seabass,0.764,-0.934
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,Flatfish & Turbot,Flatfish & Turbot,3.253,0.4
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,Gilthead Seabream,Gilthead Seabream,0.634,-0.775
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),20.348,11.304
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,10.025,6.0
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),5.304,0.568
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.144,-3.842
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.785,-0.959
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.831,2.5
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.036
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,8.244,-0.526
+EU-27 Aggregate,5. Balanced 4D Pareto-Optimal,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),8.475,0.628
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),16.919,-2.307
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),5.415,-5.387
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),8.755,-9.35
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.589,-0.72
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,European Seabass,European Seabass,0.764,-0.934
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,Flatfish & Turbot,Flatfish & Turbot,3.253,0.4
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,Gilthead Seabream,Gilthead Seabream,3.909,2.5
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),20.348,11.304
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,10.025,6.0
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),5.92,1.184
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.144,-3.842
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.785,-0.959
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.831,2.5
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.036
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,7.718,-1.052
+EU-27 Aggregate,6. Planetary Health & EFSA Omega-3 Shift,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),8.475,0.628
+Western Europe,1. Observed Baseline (2015–2024),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),15.361,0.0
+Western Europe,1. Observed Baseline (2015–2024),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),11.717,0.0
+Western Europe,1. Observed Baseline (2015–2024),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),22.002,0.0
+Western Europe,1. Observed Baseline (2015–2024),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,1.603,0.0
+Western Europe,1. Observed Baseline (2015–2024),European Seabass,European Seabass,2.222,0.0
+Western Europe,1. Observed Baseline (2015–2024),Flatfish & Turbot,Flatfish & Turbot,2.775,0.0
+Western Europe,1. Observed Baseline (2015–2024),Gilthead Seabream,Gilthead Seabream,1.044,0.0
+Western Europe,1. Observed Baseline (2015–2024),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),8.325,0.0
+Western Europe,1. Observed Baseline (2015–2024),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,4.487,0.0
+Western Europe,1. Observed Baseline (2015–2024),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),5.219,0.0
+Western Europe,1. Observed Baseline (2015–2024),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,7.39,0.0
+Western Europe,1. Observed Baseline (2015–2024),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),2.606,0.0
+Western Europe,1. Observed Baseline (2015–2024),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,1.697,0.0
+Western Europe,1. Observed Baseline (2015–2024),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.084,0.0
+Western Europe,1. Observed Baseline (2015–2024),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,10.976,0.0
+Western Europe,1. Observed Baseline (2015–2024),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),2.493,0.0
+Western Europe,2. Minimum-Variance (Markowitz Stability),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),16.009,0.648
+Western Europe,2. Minimum-Variance (Markowitz Stability),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),12.654,0.937
+Western Europe,2. Minimum-Variance (Markowitz Stability),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),9.901,-12.101
+Western Europe,2. Minimum-Variance (Markowitz Stability),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,2.003,0.4
+Western Europe,2. Minimum-Variance (Markowitz Stability),European Seabass,European Seabass,1.0,-1.222
+Western Europe,2. Minimum-Variance (Markowitz Stability),Flatfish & Turbot,Flatfish & Turbot,1.249,-1.526
+Western Europe,2. Minimum-Variance (Markowitz Stability),Gilthead Seabream,Gilthead Seabream,0.47,-0.574
+Western Europe,2. Minimum-Variance (Markowitz Stability),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),18.731,10.406
+Western Europe,2. Minimum-Variance (Markowitz Stability),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,10.487,6.0
+Western Europe,2. Minimum-Variance (Markowitz Stability),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),6.24,1.022
+Western Europe,2. Minimum-Variance (Markowitz Stability),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.326,-4.065
+Western Europe,2. Minimum-Variance (Markowitz Stability),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.173,-1.433
+Western Europe,2. Minimum-Variance (Markowitz Stability),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,0.763,-0.933
+Western Europe,2. Minimum-Variance (Markowitz Stability),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.066
+Western Europe,2. Minimum-Variance (Markowitz Stability),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,12.952,1.976
+Western Europe,2. Minimum-Variance (Markowitz Stability),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),2.893,0.4
+Western Europe,3. Minimum-Cost Nutrient-Adequate,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),6.913,-8.449
+Western Europe,3. Minimum-Cost Nutrient-Adequate,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),11.248,-0.469
+Western Europe,3. Minimum-Cost Nutrient-Adequate,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),21.122,-0.88
+Western Europe,3. Minimum-Cost Nutrient-Adequate,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.721,-0.882
+Western Europe,3. Minimum-Cost Nutrient-Adequate,European Seabass,European Seabass,1.0,-1.222
+Western Europe,3. Minimum-Cost Nutrient-Adequate,Flatfish & Turbot,Flatfish & Turbot,2.536,-0.239
+Western Europe,3. Minimum-Cost Nutrient-Adequate,Gilthead Seabream,Gilthead Seabream,0.47,-0.574
+Western Europe,3. Minimum-Cost Nutrient-Adequate,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),18.731,10.406
+Western Europe,3. Minimum-Cost Nutrient-Adequate,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,10.487,6.0
+Western Europe,3. Minimum-Cost Nutrient-Adequate,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),8.536,3.317
+Western Europe,3. Minimum-Cost Nutrient-Adequate,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,4.385,-3.005
+Western Europe,3. Minimum-Cost Nutrient-Adequate,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),5.106,2.5
+Western Europe,3. Minimum-Cost Nutrient-Adequate,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,0.763,-0.933
+Western Europe,3. Minimum-Cost Nutrient-Adequate,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.066
+Western Europe,3. Minimum-Cost Nutrient-Adequate,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,4.939,-6.037
+Western Europe,3. Minimum-Cost Nutrient-Adequate,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),2.893,0.4
+Western Europe,4. Ecological & Biosecurity Boundary,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),14.44,-0.922
+Western Europe,4. Ecological & Biosecurity Boundary,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),6.076,-5.641
+Western Europe,4. Ecological & Biosecurity Boundary,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),15.583,-6.419
+Western Europe,4. Ecological & Biosecurity Boundary,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.721,-0.882
+Western Europe,4. Ecological & Biosecurity Boundary,European Seabass,European Seabass,4.722,2.5
+Western Europe,4. Ecological & Biosecurity Boundary,Flatfish & Turbot,Flatfish & Turbot,3.175,0.4
+Western Europe,4. Ecological & Biosecurity Boundary,Gilthead Seabream,Gilthead Seabream,3.544,2.5
+Western Europe,4. Ecological & Biosecurity Boundary,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),18.731,10.406
+Western Europe,4. Ecological & Biosecurity Boundary,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,10.487,6.0
+Western Europe,4. Ecological & Biosecurity Boundary,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),5.845,0.626
+Western Europe,4. Ecological & Biosecurity Boundary,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.326,-4.065
+Western Europe,4. Ecological & Biosecurity Boundary,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.173,-1.433
+Western Europe,4. Ecological & Biosecurity Boundary,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,4.197,2.5
+Western Europe,4. Ecological & Biosecurity Boundary,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.066
+Western Europe,4. Ecological & Biosecurity Boundary,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,4.939,-6.037
+Western Europe,4. Ecological & Biosecurity Boundary,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),2.893,0.4
+Western Europe,5. Balanced 4D Pareto-Optimal,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),14.44,-0.922
+Western Europe,5. Balanced 4D Pareto-Optimal,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),11.248,-0.469
+Western Europe,5. Balanced 4D Pareto-Optimal,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),9.901,-12.101
+Western Europe,5. Balanced 4D Pareto-Optimal,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.721,-0.882
+Western Europe,5. Balanced 4D Pareto-Optimal,European Seabass,European Seabass,1.0,-1.222
+Western Europe,5. Balanced 4D Pareto-Optimal,Flatfish & Turbot,Flatfish & Turbot,3.175,0.4
+Western Europe,5. Balanced 4D Pareto-Optimal,Gilthead Seabream,Gilthead Seabream,2.51,1.466
+Western Europe,5. Balanced 4D Pareto-Optimal,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),18.731,10.406
+Western Europe,5. Balanced 4D Pareto-Optimal,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,10.487,6.0
+Western Europe,5. Balanced 4D Pareto-Optimal,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),5.845,0.626
+Western Europe,5. Balanced 4D Pareto-Optimal,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.326,-4.065
+Western Europe,5. Balanced 4D Pareto-Optimal,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.173,-1.433
+Western Europe,5. Balanced 4D Pareto-Optimal,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,4.197,2.5
+Western Europe,5. Balanced 4D Pareto-Optimal,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.066
+Western Europe,5. Balanced 4D Pareto-Optimal,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,10.205,-0.771
+Western Europe,5. Balanced 4D Pareto-Optimal,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),2.893,0.4
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),13.518,-1.843
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),11.248,-0.469
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),9.901,-12.101
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.721,-0.882
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,European Seabass,European Seabass,1.0,-1.222
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,Flatfish & Turbot,Flatfish & Turbot,3.175,0.4
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,Gilthead Seabream,Gilthead Seabream,3.544,2.5
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),18.731,10.406
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,10.487,6.0
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),6.523,1.305
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.326,-4.065
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.173,-1.433
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,4.197,2.5
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.066
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,9.414,-1.562
+Western Europe,6. Planetary Health & EFSA Omega-3 Shift,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),2.893,0.4
+Southern Europe,1. Observed Baseline (2015–2024),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),6.438,0.0
+Southern Europe,1. Observed Baseline (2015–2024),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),18.197,0.0
+Southern Europe,1. Observed Baseline (2015–2024),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),13.984,0.0
+Southern Europe,1. Observed Baseline (2015–2024),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,1.706,0.0
+Southern Europe,1. Observed Baseline (2015–2024),European Seabass,European Seabass,2.146,0.0
+Southern Europe,1. Observed Baseline (2015–2024),Flatfish & Turbot,Flatfish & Turbot,2.688,0.0
+Southern Europe,1. Observed Baseline (2015–2024),Gilthead Seabream,Gilthead Seabream,2.611,0.0
+Southern Europe,1. Observed Baseline (2015–2024),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),6.195,0.0
+Southern Europe,1. Observed Baseline (2015–2024),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,2.996,0.0
+Southern Europe,1. Observed Baseline (2015–2024),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),6.733,0.0
+Southern Europe,1. Observed Baseline (2015–2024),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,7.21,0.0
+Southern Europe,1. Observed Baseline (2015–2024),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.487,0.0
+Southern Europe,1. Observed Baseline (2015–2024),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,0.223,0.0
+Southern Europe,1. Observed Baseline (2015–2024),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.109,0.0
+Southern Europe,1. Observed Baseline (2015–2024),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,9.149,0.0
+Southern Europe,1. Observed Baseline (2015–2024),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),18.129,0.0
+Southern Europe,2. Minimum-Variance (Markowitz Stability),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),5.786,-0.652
+Southern Europe,2. Minimum-Variance (Markowitz Stability),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),19.653,1.456
+Southern Europe,2. Minimum-Variance (Markowitz Stability),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),6.293,-7.691
+Southern Europe,2. Minimum-Variance (Markowitz Stability),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,2.106,0.4
+Southern Europe,2. Minimum-Variance (Markowitz Stability),European Seabass,European Seabass,0.966,-1.18
+Southern Europe,2. Minimum-Variance (Markowitz Stability),Flatfish & Turbot,Flatfish & Turbot,1.21,-1.478
+Southern Europe,2. Minimum-Variance (Markowitz Stability),Gilthead Seabream,Gilthead Seabream,1.175,-1.436
+Southern Europe,2. Minimum-Variance (Markowitz Stability),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),13.939,7.744
+Southern Europe,2. Minimum-Variance (Markowitz Stability),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,8.996,6.0
+Southern Europe,2. Minimum-Variance (Markowitz Stability),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),8.275,1.542
+Southern Europe,2. Minimum-Variance (Markowitz Stability),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.245,-3.966
+Southern Europe,2. Minimum-Variance (Markowitz Stability),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.834,-0.653
+Southern Europe,2. Minimum-Variance (Markowitz Stability),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,0.402,0.18
+Southern Europe,2. Minimum-Variance (Markowitz Stability),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.041
+Southern Europe,2. Minimum-Variance (Markowitz Stability),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,10.795,1.647
+Southern Europe,2. Minimum-Variance (Markowitz Stability),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),16.176,-1.952
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),2.897,-3.541
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),17.469,-0.728
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),13.425,-0.559
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.768,-0.938
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,European Seabass,European Seabass,0.966,-1.18
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,Flatfish & Turbot,Flatfish & Turbot,1.21,-1.478
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,Gilthead Seabream,Gilthead Seabream,1.175,-1.436
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),13.939,7.744
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,8.996,6.0
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),10.442,3.709
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.245,-3.966
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),3.987,2.5
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,0.15,-0.073
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.041
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,4.117,-5.032
+Southern Europe,3. Minimum-Cost Nutrient-Adequate,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),17.066,-1.063
+Southern Europe,4. Ecological & Biosecurity Boundary,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),6.052,-0.386
+Southern Europe,4. Ecological & Biosecurity Boundary,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),12.507,-5.69
+Southern Europe,4. Ecological & Biosecurity Boundary,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),6.871,-7.113
+Southern Europe,4. Ecological & Biosecurity Boundary,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.768,-0.938
+Southern Europe,4. Ecological & Biosecurity Boundary,European Seabass,European Seabass,4.646,2.5
+Southern Europe,4. Ecological & Biosecurity Boundary,Flatfish & Turbot,Flatfish & Turbot,3.088,0.4
+Southern Europe,4. Ecological & Biosecurity Boundary,Gilthead Seabream,Gilthead Seabream,5.111,2.5
+Southern Europe,4. Ecological & Biosecurity Boundary,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),13.939,7.744
+Southern Europe,4. Ecological & Biosecurity Boundary,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,8.996,6.0
+Southern Europe,4. Ecological & Biosecurity Boundary,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),7.541,0.808
+Southern Europe,4. Ecological & Biosecurity Boundary,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.245,-3.966
+Southern Europe,4. Ecological & Biosecurity Boundary,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.669,-0.818
+Southern Europe,4. Ecological & Biosecurity Boundary,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,2.723,2.5
+Southern Europe,4. Ecological & Biosecurity Boundary,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.041
+Southern Europe,4. Ecological & Biosecurity Boundary,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,4.117,-5.032
+Southern Europe,4. Ecological & Biosecurity Boundary,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),19.579,1.45
+Southern Europe,5. Balanced 4D Pareto-Optimal,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),6.052,-0.386
+Southern Europe,5. Balanced 4D Pareto-Optimal,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),13.184,-5.012
+Southern Europe,5. Balanced 4D Pareto-Optimal,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),13.425,-0.559
+Southern Europe,5. Balanced 4D Pareto-Optimal,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.768,-0.938
+Southern Europe,5. Balanced 4D Pareto-Optimal,European Seabass,European Seabass,0.966,-1.18
+Southern Europe,5. Balanced 4D Pareto-Optimal,Flatfish & Turbot,Flatfish & Turbot,1.21,-1.478
+Southern Europe,5. Balanced 4D Pareto-Optimal,Gilthead Seabream,Gilthead Seabream,1.175,-1.436
+Southern Europe,5. Balanced 4D Pareto-Optimal,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),13.939,7.744
+Southern Europe,5. Balanced 4D Pareto-Optimal,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,8.996,6.0
+Southern Europe,5. Balanced 4D Pareto-Optimal,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),7.541,0.808
+Southern Europe,5. Balanced 4D Pareto-Optimal,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.245,-3.966
+Southern Europe,5. Balanced 4D Pareto-Optimal,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.669,-0.818
+Southern Europe,5. Balanced 4D Pareto-Optimal,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,0.503,0.28
+Southern Europe,5. Balanced 4D Pareto-Optimal,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.041
+Southern Europe,5. Balanced 4D Pareto-Optimal,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,8.6,-0.549
+Southern Europe,5. Balanced 4D Pareto-Optimal,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),19.579,1.45
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),5.665,-0.773
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),13.01,-5.187
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),9.5,-4.484
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.768,-0.938
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,European Seabass,European Seabass,0.966,-1.18
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,Flatfish & Turbot,Flatfish & Turbot,3.088,0.4
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,Gilthead Seabream,Gilthead Seabream,1.834,-0.777
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),13.939,7.744
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,8.996,6.0
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),8.416,1.683
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,3.245,-3.966
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.669,-0.818
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,2.124,1.902
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,0.041
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,8.051,-1.098
+Southern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),19.579,1.45
+Central & Eastern Europe,1. Observed Baseline (2015–2024),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),26.812,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),4.499,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),20.793,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.181,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),European Seabass,European Seabass,0.459,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),Flatfish & Turbot,Flatfish & Turbot,1.363,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),Gilthead Seabream,Gilthead Seabream,0.486,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),16.151,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,8.406,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),0.974,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,9.491,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),2.994,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,2.753,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.33,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,2.456,0.0
+Central & Eastern Europe,1. Observed Baseline (2015–2024),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),1.852,0.0
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),25.414,-1.398
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),4.899,0.4
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),16.58,-4.213
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.15,-0.031
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),European Seabass,European Seabass,0.206,-0.252
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),Flatfish & Turbot,Flatfish & Turbot,0.613,-0.75
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),Gilthead Seabream,Gilthead Seabream,0.219,-0.268
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),11.183,-4.968
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,18.914,10.508
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),4.592,3.619
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,4.271,-5.22
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.347,-1.647
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,5.253,2.5
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,-0.18
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,3.956,1.5
+Central & Eastern Europe,2. Minimum-Variance (Markowitz Stability),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),2.252,0.4
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),12.065,-14.747
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),3.006,-1.493
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),19.962,-0.832
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.15,-0.031
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,European Seabass,European Seabass,0.206,-0.252
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,Flatfish & Turbot,Flatfish & Turbot,0.887,-0.476
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,Gilthead Seabream,Gilthead Seabream,0.219,-0.268
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),24.0,7.849
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,18.914,10.508
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),2.243,1.269
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,4.271,-5.22
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),4.738,1.743
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,5.253,2.5
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.73,0.4
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,1.105,-1.351
+Central & Eastern Europe,3. Minimum-Cost Nutrient-Adequate,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),2.252,0.4
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),25.203,-1.609
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),2.024,-2.474
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),9.357,-11.436
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.15,-0.031
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,European Seabass,European Seabass,2.959,2.5
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,Flatfish & Turbot,Flatfish & Turbot,1.763,0.4
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,Gilthead Seabream,Gilthead Seabream,2.986,2.5
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),23.601,7.45
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,18.914,10.508
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),1.09,0.117
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,4.271,-5.22
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.347,-1.647
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,4.245,1.492
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,-0.18
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,1.105,-1.351
+Central & Eastern Europe,4. Ecological & Biosecurity Boundary,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),0.833,-1.018
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),22.681,-4.13
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),2.024,-2.474
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),15.175,-5.619
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.15,-0.031
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,European Seabass,European Seabass,0.206,-0.252
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,Flatfish & Turbot,Flatfish & Turbot,1.763,0.4
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,Gilthead Seabream,Gilthead Seabream,0.411,-0.076
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),23.206,7.056
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,18.914,10.508
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),1.09,0.117
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,4.271,-5.22
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.347,-1.647
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,5.253,2.5
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,-0.18
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,1.105,-1.351
+Central & Eastern Europe,5. Balanced 4D Pareto-Optimal,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),2.252,0.4
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),23.594,-3.217
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),2.024,-2.474
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),12.076,-8.717
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.15,-0.031
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,European Seabass,European Seabass,0.314,-0.144
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,Flatfish & Turbot,Flatfish & Turbot,1.763,0.4
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,Gilthead Seabream,Gilthead Seabream,2.986,2.5
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),24.0,7.849
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,18.914,10.508
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),1.217,0.243
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,4.271,-5.22
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),1.347,-1.647
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,5.253,2.5
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.15,-0.18
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,1.105,-1.351
+Central & Eastern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),0.833,-1.018
+Northern Europe,1. Observed Baseline (2015–2024),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),41.118,0.0
+Northern Europe,1. Observed Baseline (2015–2024),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),1.88,0.0
+Northern Europe,1. Observed Baseline (2015–2024),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),17.833,0.0
+Northern Europe,1. Observed Baseline (2015–2024),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.523,0.0
+Northern Europe,1. Observed Baseline (2015–2024),European Seabass,European Seabass,0.566,0.0
+Northern Europe,1. Observed Baseline (2015–2024),Flatfish & Turbot,Flatfish & Turbot,3.147,0.0
+Northern Europe,1. Observed Baseline (2015–2024),Gilthead Seabream,Gilthead Seabream,0.056,0.0
+Northern Europe,1. Observed Baseline (2015–2024),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),10.84,0.0
+Northern Europe,1. Observed Baseline (2015–2024),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,7.645,0.0
+Northern Europe,1. Observed Baseline (2015–2024),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),0.468,0.0
+Northern Europe,1. Observed Baseline (2015–2024),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,4.821,0.0
+Northern Europe,1. Observed Baseline (2015–2024),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.246,0.0
+Northern Europe,1. Observed Baseline (2015–2024),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,1.146,0.0
+Northern Europe,1. Observed Baseline (2015–2024),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.034,0.0
+Northern Europe,1. Observed Baseline (2015–2024),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,9.323,0.0
+Northern Europe,1. Observed Baseline (2015–2024),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),0.355,0.0
+Northern Europe,2. Minimum-Variance (Markowitz Stability),Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),42.281,1.163
+Northern Europe,2. Minimum-Variance (Markowitz Stability),Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),2.28,0.4
+Northern Europe,2. Minimum-Variance (Markowitz Stability),"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),8.957,-8.876
+Northern Europe,2. Minimum-Variance (Markowitz Stability),"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.235,-0.288
+Northern Europe,2. Minimum-Variance (Markowitz Stability),European Seabass,European Seabass,0.255,-0.311
+Northern Europe,2. Minimum-Variance (Markowitz Stability),Flatfish & Turbot,Flatfish & Turbot,3.547,0.4
+Northern Europe,2. Minimum-Variance (Markowitz Stability),Gilthead Seabream,Gilthead Seabream,0.15,0.094
+Northern Europe,2. Minimum-Variance (Markowitz Stability),"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),19.731,8.892
+Northern Europe,2. Minimum-Variance (Markowitz Stability),Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,3.44,-4.205
+Northern Europe,2. Minimum-Variance (Markowitz Stability),"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),0.444,-0.023
+Northern Europe,2. Minimum-Variance (Markowitz Stability),Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,2.169,-2.652
+Northern Europe,2. Minimum-Variance (Markowitz Stability),"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.924,0.678
+Northern Europe,2. Minimum-Variance (Markowitz Stability),Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.395,2.25
+Northern Europe,2. Minimum-Variance (Markowitz Stability),"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.434,0.4
+Northern Europe,2. Minimum-Variance (Markowitz Stability),Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,11.001,1.678
+Northern Europe,2. Minimum-Variance (Markowitz Stability),"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),0.755,0.4
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),28.153,-12.965
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),1.805,-0.075
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),13.76,-4.073
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.235,-0.288
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,European Seabass,European Seabass,0.255,-0.311
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,Flatfish & Turbot,Flatfish & Turbot,3.547,0.4
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,Gilthead Seabream,Gilthead Seabream,0.15,0.094
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),24.0,13.16
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,9.303,1.658
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),0.524,0.056
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,2.169,-2.652
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),2.501,2.255
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.646,2.5
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.434,0.4
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,8.763,-0.559
+Northern Europe,3. Minimum-Cost Nutrient-Adequate,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),0.755,0.4
+Northern Europe,4. Ecological & Biosecurity Boundary,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),38.651,-2.467
+Northern Europe,4. Ecological & Biosecurity Boundary,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),0.846,-1.034
+Northern Europe,4. Ecological & Biosecurity Boundary,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),8.025,-9.808
+Northern Europe,4. Ecological & Biosecurity Boundary,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.235,-0.288
+Northern Europe,4. Ecological & Biosecurity Boundary,European Seabass,European Seabass,0.255,-0.311
+Northern Europe,4. Ecological & Biosecurity Boundary,Flatfish & Turbot,Flatfish & Turbot,3.547,0.4
+Northern Europe,4. Ecological & Biosecurity Boundary,Gilthead Seabream,Gilthead Seabream,0.643,0.586
+Northern Europe,4. Ecological & Biosecurity Boundary,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),24.0,13.16
+Northern Europe,4. Ecological & Biosecurity Boundary,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,10.585,2.94
+Northern Europe,4. Ecological & Biosecurity Boundary,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),0.524,0.056
+Northern Europe,4. Ecological & Biosecurity Boundary,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,2.169,-2.652
+Northern Europe,4. Ecological & Biosecurity Boundary,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.15,-0.096
+Northern Europe,4. Ecological & Biosecurity Boundary,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.646,2.5
+Northern Europe,4. Ecological & Biosecurity Boundary,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.434,0.4
+Northern Europe,4. Ecological & Biosecurity Boundary,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,6.131,-3.192
+Northern Europe,4. Ecological & Biosecurity Boundary,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),0.16,-0.195
+Northern Europe,5. Balanced 4D Pareto-Optimal,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),38.651,-2.467
+Northern Europe,5. Balanced 4D Pareto-Optimal,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),0.846,-1.034
+Northern Europe,5. Balanced 4D Pareto-Optimal,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),14.474,-3.359
+Northern Europe,5. Balanced 4D Pareto-Optimal,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.235,-0.288
+Northern Europe,5. Balanced 4D Pareto-Optimal,European Seabass,European Seabass,0.255,-0.311
+Northern Europe,5. Balanced 4D Pareto-Optimal,Flatfish & Turbot,Flatfish & Turbot,3.547,0.4
+Northern Europe,5. Balanced 4D Pareto-Optimal,Gilthead Seabream,Gilthead Seabream,0.15,0.094
+Northern Europe,5. Balanced 4D Pareto-Optimal,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),24.0,13.16
+Northern Europe,5. Balanced 4D Pareto-Optimal,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,6.405,-1.24
+Northern Europe,5. Balanced 4D Pareto-Optimal,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),0.524,0.056
+Northern Europe,5. Balanced 4D Pareto-Optimal,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,2.169,-2.652
+Northern Europe,5. Balanced 4D Pareto-Optimal,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.15,-0.096
+Northern Europe,5. Balanced 4D Pareto-Optimal,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.646,2.5
+Northern Europe,5. Balanced 4D Pareto-Optimal,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.434,0.4
+Northern Europe,5. Balanced 4D Pareto-Optimal,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,4.195,-5.128
+Northern Europe,5. Balanced 4D Pareto-Optimal,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),0.319,-0.036
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,Atlantic & Pacific Salmon,Salmonids (Atlantic/Pacific),36.184,-4.934
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,Bluefin Tuna & Major Tunas,Tunas (Bluefin/Skipjack/Yellowfin),0.846,-1.034
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Cod, Hake, Pollock & Whitefish",Demersal Whitefish (Cod/Pollock/Hake),8.025,-9.808
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Crabs, Lobsters & Other Crustaceans",Crabs & Lobsters,0.235,-0.288
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,European Seabass,European Seabass,0.255,-0.311
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,Flatfish & Turbot,Flatfish & Turbot,3.547,0.4
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,Gilthead Seabream,Gilthead Seabream,0.15,0.094
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Herring, Sardines & Small Pelagics",Small Pelagics (Herring/Sardines),22.808,11.968
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,Mackerel & Horse Mackerel,Mackerel & Horse Mackerel,12.078,4.432
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Mussels, Oysters & Bivalves",Bivalve Molluscs (Mussels/Oysters),0.585,0.117
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,Other Marine & Freshwater Finfish,Other Marine/Freshwater Finfish,2.169,-2.652
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Pangasius, Tilapia & Freshwater Catfish",Freshwater Aquaculture (Pangasius/Tilapia),0.15,-0.096
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,Rainbow & Freshwater Trout,Rainbow & Freshwater Trout,3.646,2.5
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Sea Cucumber, Urchins & Invertebrates",Echinoderms & Invertebrates,0.434,0.4
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,Shrimp & Prawns,Warm/Cold-Water Shrimp & Prawns,8.134,-1.188
+Northern Europe,6. Planetary Health & EFSA Omega-3 Shift,"Squid, Cuttlefish & Octopus",Cephalopods (Squid/Octopus/Cuttlefish),0.755,0.4

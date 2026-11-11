@@ -1,0 +1,21 @@
+Model_Specification,Variable,PPML_Coefficient,Robust_Std_Error,Z_Statistic,P_Value,CI_95_Lower,CI_95_Upper,Economic_Interpretation
+Pooled Extra-EU PPML,Log_Distance,-0.3732,0.0437,-8.55,0.0,-0.4588,-0.2876,Distance Elasticity (ln km)
+Pooled Extra-EU PPML,Trophic_Level,0.2076,0.022,9.42,0.0,0.1644,0.2508,Species Trophic Level Gradient
+Pooled Extra-EU PPML,Processing_Form_Ordinal,0.1372,0.0078,17.59,0.0,0.1219,0.1525,Value-Added Processing Form Ladder
+Pooled Extra-EU PPML,Post_2014_Russian_Ban,0.1716,0.0402,4.26,0.0,0.0927,0.2505,Post-2014 Sanctions Re-routing Dummy
+Pooled Extra-EU PPML,Post_2020_Brexit_COVID,-0.189,0.0484,-3.9,0.0001,-0.2839,-0.0941,Post-2020 Brexit & Pandemic Disruption
+Pooled Extra-EU PPML,Archetype_Cold-Water Farmed Salmonids,-0.3722,0.0639,-5.82,0.0,-0.4975,-0.2469,Archetype: Cold-Water Farmed Salmonids (vs Americas)
+Pooled Extra-EU PPML,Archetype_Global Processing Hubs,-0.1172,0.0584,-2.01,0.0449,-0.2316,-0.0027,Archetype: Global Processing Hubs (vs Americas)
+Pooled Extra-EU PPML,Archetype_North Atlantic & Arctic Capture,0.1602,0.0866,1.85,0.0644,-0.0096,0.33,Archetype: North Atlantic & Arctic Capture (vs Americas)
+Pooled Extra-EU PPML,Archetype_Tropical Farmed Aquaculture,0.1465,0.0523,2.8,0.0051,0.044,0.2489,Archetype: Tropical Farmed Aquaculture (vs Americas)
+Pooled Extra-EU PPML,Archetype_Upwelling & Ocean Tuna Fisheries,0.255,0.0509,5.01,0.0,0.1552,0.3548,Archetype: Upwelling & Ocean Tuna Fisheries (vs Americas)
+Importer Fixed-Effects Extra-EU PPML,Log_Distance,-0.3328,0.0365,-9.11,0.0,-0.4044,-0.2612,Distance Elasticity (ln km)
+Importer Fixed-Effects Extra-EU PPML,Trophic_Level,0.1985,0.0213,9.31,0.0,0.1567,0.2404,Species Trophic Level Gradient
+Importer Fixed-Effects Extra-EU PPML,Processing_Form_Ordinal,0.1515,0.0076,19.94,0.0,0.1366,0.1664,Value-Added Processing Form Ladder
+Importer Fixed-Effects Extra-EU PPML,Post_2014_Russian_Ban,0.2626,0.0395,6.65,0.0,0.1851,0.34,Post-2014 Sanctions Re-routing Dummy
+Importer Fixed-Effects Extra-EU PPML,Post_2020_Brexit_COVID,-0.1554,0.0474,-3.28,0.001,-0.2482,-0.0625,Post-2020 Brexit & Pandemic Disruption
+Importer Fixed-Effects Extra-EU PPML,Archetype_Cold-Water Farmed Salmonids,-0.4683,0.0605,-7.74,0.0,-0.5869,-0.3498,Archetype: Cold-Water Farmed Salmonids (vs Americas)
+Importer Fixed-Effects Extra-EU PPML,Archetype_Global Processing Hubs,0.0621,0.0585,1.06,0.2881,-0.0525,0.1767,Archetype: Global Processing Hubs (vs Americas)
+Importer Fixed-Effects Extra-EU PPML,Archetype_North Atlantic & Arctic Capture,0.3077,0.0714,4.31,0.0,0.1677,0.4476,Archetype: North Atlantic & Arctic Capture (vs Americas)
+Importer Fixed-Effects Extra-EU PPML,Archetype_Tropical Farmed Aquaculture,0.2911,0.0523,5.57,0.0,0.1886,0.3937,Archetype: Tropical Farmed Aquaculture (vs Americas)
+Importer Fixed-Effects Extra-EU PPML,Archetype_Upwelling & Ocean Tuna Fisheries,-0.0122,0.053,-0.23,0.8187,-0.1161,0.0918,Archetype: Upwelling & Ocean Tuna Fisheries (vs Americas)

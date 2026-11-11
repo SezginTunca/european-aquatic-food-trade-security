@@ -1,0 +1,63 @@
+Year,Era,Era_Label,Export_Value_USD_B,Import_Value_USD_B,Total_Turnover_USD_B,Net_Trade_Balance_USD_B,Net_Trade_Ratio,Export_Weight_MMT,Import_Weight_MMT,Export_Unit_Value_USD_KG,Import_Unit_Value_USD_KG,Grubel_Lloyd_IIT,Active_Reporters,Active_Partners
+1962,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,0.4448,0.5289,0.9737,-0.0841,-0.0863,1.1993,1.0797,0.37,0.49,0.9137,15,103
+1963,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,0.4646,0.5623,1.0269,-0.0977,-0.0951,1.2307,1.182,0.38,0.48,0.9049,18,100
+1964,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,0.5061,0.6446,1.1507,-0.1386,-0.1204,1.2317,1.2187,0.41,0.53,0.8796,18,109
+1965,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,0.5853,0.7399,1.3251,-0.1546,-0.1167,1.298,1.3282,0.45,0.56,0.8833,19,115
+1966,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,0.622,0.7554,1.3774,-0.1333,-0.0968,1.3017,1.3158,0.48,0.57,0.9032,19,118
+1967,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,0.5994,0.7898,1.3892,-0.1904,-0.137,1.2364,1.3597,0.48,0.58,0.863,19,114
+1968,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,0.6238,0.8187,1.4424,-0.1949,-0.1351,1.3333,1.6203,0.47,0.51,0.8649,19,119
+1969,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,0.7074,0.8478,1.5552,-0.1405,-0.0903,1.4247,1.6743,0.5,0.51,0.9097,19,125
+1970,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,0.8955,1.0006,1.8961,-0.1051,-0.0554,1.5228,1.4356,0.59,0.7,0.9446,18,136
+1971,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,1.0537,1.1897,2.2434,-0.1361,-0.0607,1.5126,1.5555,0.7,0.76,0.9393,19,142
+1972,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,1.3229,1.4306,2.7535,-0.1077,-0.0391,1.6871,1.6432,0.78,0.87,0.9609,19,145
+1973,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,1.706,1.9201,3.6262,-0.2141,-0.059,1.6632,1.7444,1.03,1.1,0.941,19,142
+1974,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,1.9054,2.1906,4.096,-0.2852,-0.0696,1.6865,1.9111,1.13,1.15,0.9304,19,157
+1975,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,1.9941,2.3422,4.3363,-0.3481,-0.0803,1.701,1.8451,1.17,1.27,0.9197,20,146
+1976,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,0.8814,0.4641,1.3456,0.4173,0.3101,0.6075,0.364,1.45,1.27,0.6899,8,86
+1977,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,1.4427,0.9393,2.382,0.5034,0.2114,0.8969,0.6271,1.61,1.5,0.7886,10,96
+1978,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,3.1616,3.888,7.0495,-0.7264,-0.103,2.0462,2.1117,1.55,1.84,0.897,17,147
+1979,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,4.0439,5.0271,9.071,-0.9832,-0.1084,2.3376,2.4006,1.73,2.09,0.8916,18,154
+1980,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,4.4954,5.8906,10.386,-1.3952,-0.1343,2.3769,2.631,1.89,2.24,0.8657,19,160
+1981,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,4.4585,5.346,9.8046,-0.8875,-0.0905,2.7307,2.648,1.63,2.02,0.9095,19,150
+1982,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,4.1193,5.2133,9.3325,-1.094,-0.1172,2.7964,2.7448,1.47,1.9,0.8828,19,154
+1983,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,4.2268,5.0983,9.3251,-0.8716,-0.0935,2.9064,2.7569,1.45,1.85,0.9065,19,153
+1984,Era 1: 1962-1984,Pre-Liberalization & Import Substitution,4.1076,4.903,9.0105,-0.7954,-0.0883,2.9412,2.9612,1.4,1.66,0.9117,19,152
+1985,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,4.6848,5.4829,10.1678,-0.7981,-0.0785,3.1816,3.2677,1.47,1.68,0.9215,20,162
+1988,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,0.7801,1.4816,2.2617,-0.7015,-0.3102,0.3072,0.5309,2.54,2.79,0.6898,6,127
+1989,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,2.392,3.3104,5.7024,-0.9184,-0.161,0.889,1.3188,2.69,2.51,0.839,11,140
+1990,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,2.6653,4.3461,7.0114,-1.6807,-0.2397,0.8931,1.4981,2.98,2.9,0.7603,11,149
+1991,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,2.6968,4.6384,7.3352,-1.9416,-0.2647,0.9211,1.5204,2.93,3.05,0.7353,10,148
+1992,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,3.7766,5.9359,9.7126,-2.1593,-0.2223,1.4364,2.0484,2.63,2.9,0.7777,16,171
+1993,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,5.8779,6.2847,12.1625,-0.4068,-0.0334,2.6108,2.4363,2.25,2.58,0.9666,19,176
+1994,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,7.8986,10.7906,18.6892,-2.892,-0.1547,3.3372,3.7361,2.37,2.89,0.8453,28,182
+1995,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,9.0895,13.055,22.1445,-3.9655,-0.1791,3.6255,3.9847,2.51,3.28,0.8209,30,183
+1996,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,9.659,13.3782,23.0372,-3.7193,-0.1614,3.907,4.2133,2.47,3.18,0.8386,31,183
+1997,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,8.3019,12.9781,21.2801,-4.6762,-0.2197,3.8798,4.4251,2.14,2.93,0.7803,29,181
+1998,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,9.8618,14.3858,24.2476,-4.5239,-0.1866,4.1195,4.7605,2.39,3.02,0.8134,31,180
+1999,Era 2: 1985-1999,Trade Opening & Early Coastal Aquaculture,10.0615,13.9015,23.963,-3.84,-0.1602,4.3162,4.8738,2.33,2.85,0.8398,32,181
+2000,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,9.4946,12.8042,22.2989,-3.3096,-0.1484,4.4592,4.6237,2.13,2.77,0.8516,32,185
+2001,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,9.7919,13.8914,23.6833,-4.0994,-0.1731,4.6703,5.1813,2.1,2.68,0.8269,32,188
+2002,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,10.4849,14.3264,24.8112,-3.8415,-0.1548,4.6096,5.1445,2.27,2.78,0.8452,32,188
+2003,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,10.9885,14.7504,25.7388,-3.7619,-0.1462,4.4981,4.7047,2.44,3.14,0.8538,32,183
+2004,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,13.6655,18.0031,31.6686,-4.3376,-0.137,4.8907,5.2311,2.79,3.44,0.863,32,186
+2005,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,15.3811,20.4982,35.8792,-5.1171,-0.1426,5.0787,5.505,3.03,3.72,0.8574,32,182
+2006,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,17.0188,22.9987,40.0175,-5.9799,-0.1494,4.9874,5.6424,3.41,4.08,0.8506,32,182
+2007,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,19.176,25.7475,44.9235,-6.5715,-0.1463,5.222,5.7763,3.67,4.46,0.8537,32,173
+2008,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,20.8515,27.914,48.7656,-7.0625,-0.1448,5.3918,5.7176,3.87,4.88,0.8552,32,181
+2009,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,19.2343,25.1131,44.3474,-5.8787,-0.1326,5.4898,6.0021,3.5,4.18,0.8674,32,188
+2010,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,21.781,27.2697,49.0507,-5.4888,-0.1119,5.7866,5.9163,3.76,4.61,0.8881,32,183
+2011,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,25.1365,31.6407,56.7772,-6.5042,-0.1146,5.6862,6.0482,4.42,5.23,0.8854,32,180
+2012,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,30.7937,39.0527,69.8464,-8.259,-0.1182,7.4629,8.218,4.13,4.75,0.8818,32,180
+2013,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,34.7449,42.5357,77.2806,-7.7909,-0.1008,7.5655,8.2711,4.59,5.14,0.8992,32,182
+2014,Era 3: 2000-2014,Offshore Zoning & Industrial Integration,36.7831,45.4852,82.2683,-8.7021,-0.1058,8.1244,8.5865,4.53,5.3,0.8942,32,185
+2015,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,32.3271,40.5685,72.8956,-8.2414,-0.1131,7.9591,8.6654,4.06,4.68,0.8869,32,198
+2016,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,36.8539,44.7227,81.5766,-7.8688,-0.0965,7.8711,8.8451,4.68,5.06,0.9035,32,177
+2017,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,39.3298,47.8924,87.2221,-8.5626,-0.0982,8.2263,9.0502,4.78,5.29,0.9018,32,175
+2018,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,42.4733,51.2068,93.6801,-8.7334,-0.0932,8.4995,9.1311,5.0,5.61,0.9068,32,182
+2019,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,41.5499,50.931,92.4809,-9.3811,-0.1014,8.3734,9.5277,4.96,5.35,0.8986,32,177
+2020,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,45.1109,52.9179,98.0288,-7.807,-0.0796,9.6004,10.3094,4.7,5.13,0.9204,32,183
+2021,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,53.4761,60.7742,114.2502,-7.2981,-0.0639,10.1,10.8348,5.29,5.61,0.9361,32,194
+2022,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,56.5038,64.7151,121.2189,-8.2114,-0.0677,9.8168,10.624,5.76,6.09,0.9323,32,200
+2023,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,56.1143,58.0346,114.149,-1.9203,-0.0168,9.0514,9.4654,6.2,6.13,0.9832,32,198
+2024,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,58.7018,63.9117,122.6135,-5.2099,-0.0425,9.5428,10.5642,6.15,6.05,0.9575,32,197
+2025,Era 4: 2015-2025,Global Multipolarity & Modern Value Chains,34.4449,71.0506,105.4955,-36.6057,-0.347,5.9473,10.7924,5.79,6.58,0.653,32,196

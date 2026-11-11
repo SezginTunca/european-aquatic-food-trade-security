@@ -1,0 +1,51 @@
+Exporter_Country,Importer_Country,Reporter_ISO3,Partner_ISO3,Species_Group,Cumulative_Value_USD_M,Cumulative_Weight_MMT,Mean_Unit_Price_USD_KG
+Norway,Poland,NOR,POL,Atlantic & Pacific Salmon,17693.85,2.748,6.44
+Norway,France,NOR,FRA,Atlantic & Pacific Salmon,17051.25,2.764,6.17
+Poland,Germany,POL,DEU,Atlantic & Pacific Salmon,13150.84,0.868,15.16
+Norway,Denmark,NOR,DNK,Atlantic & Pacific Salmon,13117.22,2.374,5.52
+Sweden,Poland,SWE,POL,Atlantic & Pacific Salmon,12842.82,1.933,6.64
+Sweden,France,SWE,FRA,Atlantic & Pacific Salmon,12420.45,1.771,7.01
+Norway,Spain,NOR,ESP,Atlantic & Pacific Salmon,9128.17,1.397,6.53
+Norway,Portugal,NOR,PRT,"Cod, Hake, Pollock & Whitefish",8658.02,1.451,5.97
+Norway,Netherlands,NOR,NLD,Atlantic & Pacific Salmon,8518.15,1.278,6.67
+Norway,United Kingdom,NOR,GBR,Atlantic & Pacific Salmon,7828.72,1.208,6.48
+Sweden,Spain,SWE,ESP,Atlantic & Pacific Salmon,7482.57,1.017,7.36
+Spain,Italy,ESP,ITA,"Squid, Cuttlefish & Octopus",6978.07,1.487,4.69
+Norway,Italy,NOR,ITA,Atlantic & Pacific Salmon,6836.1,0.995,6.87
+Spain,Italy,ESP,ITA,Bluefin Tuna & Major Tunas,6638.16,1.258,5.27
+United Kingdom,France,GBR,FRA,Atlantic & Pacific Salmon,6621.21,0.948,6.98
+Norway,Germany,NOR,DEU,Atlantic & Pacific Salmon,6273.23,0.978,6.42
+Sweden,Italy,SWE,ITA,Atlantic & Pacific Salmon,5724.89,0.752,7.61
+Norway,Sweden,NOR,SWE,Atlantic & Pacific Salmon,5650.41,0.775,7.29
+Denmark,Germany,DNK,DEU,Atlantic & Pacific Salmon,5391.74,0.648,8.32
+Netherlands,Belgium,NLD,BEL,Shrimp & Prawns,5036.06,0.384,13.1
+Netherlands,Germany,NLD,DEU,Shrimp & Prawns,4658.97,0.387,12.05
+Sweden,Portugal,SWE,PRT,"Cod, Hake, Pollock & Whitefish",4273.3,0.557,7.67
+Sweden,Netherlands,SWE,NLD,Atlantic & Pacific Salmon,4165.18,0.561,7.42
+Norway,Denmark,NOR,DNK,"Cod, Hake, Pollock & Whitefish",3915.39,2.055,1.91
+Spain,France,ESP,FRA,Bluefin Tuna & Major Tunas,3826.26,0.81,4.73
+Sweden,United Kingdom,SWE,GBR,Atlantic & Pacific Salmon,3723.71,0.592,6.29
+Iceland,United Kingdom,ISL,GBR,"Cod, Hake, Pollock & Whitefish",3604.62,0.966,3.73
+Norway,Lithuania,NOR,LTU,Atlantic & Pacific Salmon,3602.7,0.561,6.42
+Spain,Portugal,ESP,PRT,"Cod, Hake, Pollock & Whitefish",3593.29,1.012,3.55
+Sweden,Germany,SWE,DEU,Atlantic & Pacific Salmon,3425.26,0.457,7.5
+Norway,Finland,NOR,FIN,Atlantic & Pacific Salmon,3396.17,0.591,5.74
+Netherlands,Belgium,NLD,BEL,"Mussels, Oysters & Bivalves",3393.94,0.951,3.57
+Denmark,Sweden,DNK,SWE,Shrimp & Prawns,3336.4,0.529,6.31
+United Kingdom,France,GBR,FRA,"Crabs, Lobsters & Other Crustaceans",3246.67,0.368,8.82
+Sweden,Lithuania,SWE,LTU,Atlantic & Pacific Salmon,3157.36,0.472,6.69
+Spain,Portugal,ESP,PRT,"Squid, Cuttlefish & Octopus",2988.03,0.633,4.72
+Spain,Italy,ESP,ITA,Shrimp & Prawns,2895.01,0.322,8.98
+Netherlands,Italy,NLD,ITA,Flatfish & Turbot,2833.05,0.343,8.26
+Netherlands,France,NLD,FRA,Shrimp & Prawns,2797.32,0.299,9.36
+United Kingdom,Spain,GBR,ESP,"Crabs, Lobsters & Other Crustaceans",2702.39,0.342,7.91
+Poland,Germany,POL,DEU,"Herring, Sardines & Small Pelagics",2694.18,1.018,2.65
+Denmark,Italy,DNK,ITA,Atlantic & Pacific Salmon,2682.72,0.264,10.15
+Denmark,United Kingdom,DNK,GBR,Shrimp & Prawns,2649.07,0.348,7.61
+Iceland,United Kingdom,ISL,GBR,Shrimp & Prawns,2647.83,0.366,7.23
+Norway,United Kingdom,NOR,GBR,"Cod, Hake, Pollock & Whitefish",2637.62,0.791,3.33
+Spain,Portugal,ESP,PRT,Shrimp & Prawns,2411.28,0.305,7.9
+Norway,Italy,NOR,ITA,"Cod, Hake, Pollock & Whitefish",2373.89,0.191,12.45
+Spain,Portugal,ESP,PRT,Bluefin Tuna & Major Tunas,2351.34,0.793,2.96
+Iceland,Portugal,ISL,PRT,"Cod, Hake, Pollock & Whitefish",2350.73,0.428,5.49
+United Kingdom,France,GBR,FRA,"Mussels, Oysters & Bivalves",2204.62,0.279,7.89

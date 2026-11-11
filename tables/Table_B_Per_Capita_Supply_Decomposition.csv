@@ -1,0 +1,134 @@
+Country_ISO3,Country_Name,Macro_Region,Year,Population,Capture_KG_Capita,Aquaculture_KG_Capita,Net_Intra_Imports_KG_Capita,Net_Extra_Imports_KG_Capita,Per_Capita_Supply_KG,Self_Sufficiency_Pct,Is_ReExport_Hub,Is_Microstate,Is_Outlier,Outlier_Note
+AUT,Austria,Western Europe,1995,7948278,0.051,0.367,6.307,0.955,7.68,5.442,False,False,False,Standard
+AUT,Austria,Western Europe,2005,8227829,0.045,0.294,6.883,1.121,8.344,4.064,False,False,False,Standard
+AUT,Austria,Western Europe,2015,8642699,0.04,0.405,6.339,1.924,8.709,5.119,False,False,False,Standard
+AUT,Austria,Western Europe,2024,9177982,0.038,0.546,6.457,2.001,9.042,6.456,False,False,False,Standard
+BEL,Belgium,Western Europe,1995,10136811,3.512,0.083,15.271,7.186,26.052,13.801,True,False,True,Logistical re-export hub
+BEL,Belgium,Western Europe,2005,10478617,2.346,0.04,-2.944,11.62,11.062,21.568,True,False,True,Logistical re-export hub
+BEL,Belgium,Western Europe,2015,11274196,2.193,0.007,6.542,5.82,14.562,15.108,True,False,True,Logistical re-export hub
+BEL,Belgium,Western Europe,2024,11858610,1.439,0.026,6.476,5.775,13.715,10.68,True,False,True,Logistical re-export hub
+BGR,Bulgaria,Central & Eastern Europe,1995,8406067,0.953,0.549,-1.009,0.169,0.662,226.9,False,False,True,Post-Soviet transitional market distortion
+BGR,Bulgaria,Central & Eastern Europe,2005,7658972,0.709,0.411,0.887,2.821,4.827,23.203,False,False,False,Standard
+BGR,Bulgaria,Central & Eastern Europe,2015,6984225,1.264,1.557,3.667,0.69,7.178,39.297,False,False,False,Standard
+BGR,Bulgaria,Central & Eastern Europe,2024,6441421,1.065,1.774,2.723,1.754,7.317,38.81,False,False,False,Standard
+CHE,Switzerland,Western Europe,1995,7040687,0.226,0.165,6.308,3.828,10.527,3.709,False,False,False,Standard
+CHE,Switzerland,Western Europe,2005,7437115,0.234,0.163,4.776,4.093,9.266,4.283,False,False,False,Standard
+CHE,Switzerland,Western Europe,2015,8282396,0.244,0.192,5.941,3.475,9.853,4.431,False,False,False,Standard
+CHE,Switzerland,Western Europe,2024,9005582,0.172,0.282,5.853,2.828,9.136,4.971,False,False,False,Standard
+CYP,Cyprus,Southern Europe,1995,862695,10.803,0.524,4.76,13.6,29.687,38.155,False,True,True,Microstate (<1.5M population)
+CYP,Cyprus,Southern Europe,2005,1036151,59.174,3.494,15.94,2.247,80.855,77.506,False,True,True,Pre-accession flag-of-convenience reporting anomaly
+CYP,Cyprus,Southern Europe,2015,1219502,1.22,4.795,8.535,8.914,23.465,25.635,False,True,True,Microstate (<1.5M population)
+CYP,Cyprus,Southern Europe,2024,1358282,0.856,6.666,7.868,0.747,16.137,46.613,False,True,True,Microstate (<1.5M population)
+CZE,Czechia,Central & Eastern Europe,1995,10327253,0.38,1.809,4.711,0.63,7.529,29.074,False,False,False,Standard
+CZE,Czechia,Central & Eastern Europe,2005,10211216,0.415,2.003,3.723,1.576,7.718,31.338,False,False,False,Standard
+CZE,Czechia,Central & Eastern Europe,2015,10546059,0.364,1.915,1.957,2.19,6.426,35.476,False,False,False,Standard
+CZE,Czechia,Central & Eastern Europe,2024,10905028,0.316,1.713,3.354,2.463,7.847,25.868,False,False,False,Standard
+DEU,Germany,Western Europe,1995,81678051,2.937,0.785,4.95,2.044,10.716,34.731,False,False,False,Standard
+DEU,Germany,Western Europe,2005,82469422,3.412,0.542,0.851,3.716,8.52,46.404,False,False,False,Standard
+DEU,Germany,Western Europe,2015,81686611,3.204,0.366,-2.484,5.438,6.525,54.722,False,False,False,Standard
+DEU,Germany,Western Europe,2024,83516593,2.232,0.391,-1.26,4.422,5.785,45.334,False,False,False,Standard
+DNK,Denmark,Northern Europe,1995,5233373,383.316,8.547,-73.246,32.98,351.597,111.452,True,False,True,Logistical re-export hub
+DNK,Denmark,Northern Europe,2005,5419432,168.025,7.198,-20.623,54.743,209.343,83.701,True,False,True,Logistical re-export hub
+DNK,Denmark,Northern Europe,2015,5683483,152.897,6.378,-25.058,65.698,199.914,79.671,True,False,True,Logistical re-export hub
+DNK,Denmark,Northern Europe,2024,5976992,78.263,4.753,-2.486,21.058,101.589,81.718,True,False,True,Logistical re-export hub
+ESP,Spain,Southern Europe,1995,39724050,30.101,5.638,0.284,13.408,49.431,72.3,False,False,False,Standard
+ESP,Spain,Southern Europe,2005,43653155,19.562,5.086,-1.383,16.514,39.779,61.963,False,False,False,Standard
+ESP,Spain,Southern Europe,2015,46422303,20.946,6.324,-4.222,16.119,39.167,69.625,False,False,False,Standard
+ESP,Spain,Southern Europe,2024,48848840,15.65,5.04,-5.33,18.403,33.762,61.28,False,False,False,Standard
+EST,Estonia,Central & Eastern Europe,1995,1436634,92.282,0.219,3.482,-57.627,38.357,241.16,False,False,False,Standard
+EST,Estonia,Central & Eastern Europe,2005,1354775,73.504,0.41,18.359,-88.756,3.517,2101.49,False,False,False,Standard
+EST,Estonia,Central & Eastern Europe,2015,1315407,55.644,0.607,11.12,-52.798,14.574,385.973,False,False,False,Standard
+EST,Estonia,Central & Eastern Europe,2024,1372341,47.622,0.7,12.125,-31.494,28.953,166.899,False,False,False,Standard
+EU27,European Union (EU-27 Aggregate),Continental Aggregate,1995,426210050,17.098,2.566,3.391,2.427,25.482,77.17,False,False,False,Standard
+EU27,European Union (EU-27 Aggregate),Continental Aggregate,2005,435789139,11.899,2.54,3.087,4.223,21.748,66.389,False,False,False,Standard
+EU27,European Union (EU-27 Aggregate),Continental Aggregate,2015,443793218,10.627,2.381,1.818,5.229,20.055,64.859,False,False,False,Standard
+EU27,European Union (EU-27 Aggregate),Continental Aggregate,2024,450228188,7.875,2.263,2.989,5.198,18.324,55.321,False,False,False,Standard
+EU27_10YR,European Union (2015-2024 10-Yr Mean),Continental Aggregate,2024,446618840,9.33,2.48,2.723,5.097,19.631,60.012,False,False,False,Standard (10-Year Average)
+FIN,Finland,Northern Europe,1995,5107790,32.79,3.396,16.393,2.273,54.852,65.97,False,False,False,Standard
+FIN,Finland,Northern Europe,2005,5246096,25.17,2.736,15.101,-1.318,41.69,66.938,False,False,False,Standard
+FIN,Finland,Northern Europe,2015,5479531,33.404,2.715,6.954,1.085,44.158,81.795,False,False,False,Standard
+FIN,Finland,Northern Europe,2024,5619911,19.811,2.955,-2.598,0.046,20.215,112.623,False,False,False,Standard
+FRA,France,Western Europe,1995,59541294,11.537,4.716,5.904,3.035,25.192,64.515,False,False,False,Standard
+FRA,France,Western Europe,2005,63180854,9.467,3.877,6.607,4.584,24.535,54.387,False,False,False,Standard
+FRA,France,Western Europe,2015,66548272,8.136,2.455,6.007,5.742,22.339,47.407,False,False,False,Standard
+FRA,France,Western Europe,2024,68551653,7.012,2.758,6.67,5.99,22.429,43.556,False,False,False,Standard
+GBR,United Kingdom of Great Britain and Northern Ireland,Western Europe,1995,58019030,15.83,1.617,-1.717,6.358,22.089,78.988,False,False,False,Standard
+GBR,United Kingdom of Great Britain and Northern Ireland,Western Europe,2005,60401206,11.098,2.861,-3.747,7.294,17.506,79.741,False,False,False,Standard
+GBR,United Kingdom of Great Britain and Northern Ireland,Western Europe,2015,65087000,10.85,3.254,-4.403,3.612,13.313,105.946,False,False,False,Standard
+GBR,United Kingdom of Great Britain and Northern Ireland,Western Europe,2024,69281000,10.902,3.262,-1.429,3.823,16.559,85.541,False,False,False,Standard
+GRC,Greece,Southern Europe,1995,10562153,14.364,3.091,2.589,3.418,23.462,74.397,False,False,False,Standard
+GRC,Greece,Southern Europe,2005,10987314,8.412,9.666,1.213,9.249,28.541,63.345,False,False,False,Standard
+GRC,Greece,Southern Europe,2015,10820883,6.04,9.903,-0.859,8.594,23.678,67.332,False,False,False,Standard
+GRC,Greece,Southern Europe,2024,10405134,5.386,12.304,0.689,8.668,27.047,65.404,False,False,False,Standard
+HRV,Croatia,Central & Eastern Europe,1995,4620030,3.521,0.867,1.429,1.267,7.084,61.946,False,False,False,Standard
+HRV,Croatia,Central & Eastern Europe,2005,4310145,8.05,3.211,8.519,0.767,20.547,54.806,False,False,False,Standard
+HRV,Croatia,Central & Eastern Europe,2015,4151725,17.817,4.065,-1.513,-0.416,19.953,109.667,False,False,False,Standard
+HRV,Croatia,Central & Eastern Europe,2024,3866200,11.085,7.596,8.08,-2.244,24.516,76.199,False,False,False,Standard
+HUN,Hungary,Central & Eastern Europe,1995,10328965,0.708,0.906,1.991,3.522,7.127,22.65,False,False,False,Standard
+HUN,Hungary,Central & Eastern Europe,2005,10087065,0.754,1.354,2.618,0.673,5.4,39.051,False,False,False,Standard
+HUN,Hungary,Central & Eastern Europe,2015,9797755,0.605,1.769,2.113,0.36,4.848,48.975,False,False,False,Standard
+HUN,Hungary,Central & Eastern Europe,2024,9562065,0.496,2.032,2.544,0.228,5.301,47.702,False,False,False,Standard
+IRL,Ireland,Western Europe,1995,3608841,117.367,7.583,-31.09,-31.379,62.481,199.98,False,False,True,Extreme per-capita value (>60 kg)
+IRL,Ireland,Western Europe,2005,4159914,71.439,14.435,-31.14,-3.772,50.963,168.505,False,False,False,Standard
+IRL,Ireland,Western Europe,2015,4701957,56.438,8.433,-3.495,-34.243,27.133,239.086,False,False,False,Standard
+IRL,Ireland,Western Europe,2024,5395790,45.522,6.974,6.343,-13.785,45.055,116.518,False,False,False,Standard
+ISL,Iceland,Northern Europe,1995,267468,6073.209,13.03,-1610.167,-570.382,3905.689,155.83,False,True,True,Microstate (<1.5M population)
+ISL,Iceland,Northern Europe,2005,296734,5681.904,27.823,-1571.609,-340.356,3797.762,150.345,False,True,True,Microstate (<1.5M population)
+ISL,Iceland,Northern Europe,2015,330815,4073.784,25.339,-1062.622,-314.664,2721.837,150.601,False,True,True,Microstate (<1.5M population)
+ISL,Iceland,Northern Europe,2024,386506,2610.06,141.755,-940.259,-408.4,1403.156,196.116,False,True,True,Microstate (<1.5M population)
+ITA,Italy,Southern Europe,1995,56844303,7.0,3.777,5.48,4.612,20.869,51.642,False,False,False,Standard
+ITA,Italy,Southern Europe,2005,58166682,5.134,3.137,6.206,7.919,22.395,36.929,False,False,False,Standard
+ITA,Italy,Southern Europe,2015,60229605,3.3,2.47,7.65,7.593,21.013,27.46,False,False,False,Standard
+ITA,Italy,Southern Europe,2024,58952704,2.274,1.659,9.664,7.044,20.641,19.055,False,False,False,Standard
+LTU,Lithuania,Central & Eastern Europe,1995,3629102,15.808,0.472,8.803,-9.897,15.187,107.2,False,False,False,Standard
+LTU,Lithuania,Central & Eastern Europe,2005,3322528,42.072,0.606,4.626,-3.806,43.498,98.114,False,False,False,Standard
+LTU,Lithuania,Central & Eastern Europe,2015,2911109,29.248,1.529,2.22,4.182,37.179,82.78,False,False,False,Standard
+LTU,Lithuania,Central & Eastern Europe,2024,2888278,26.764,1.537,-1.796,5.651,32.157,88.011,False,False,False,Standard
+LUX,Luxembourg,Western Europe,1995,408625,0.0,0.0,,,,,False,True,True,Microstate (<1.5M population)
+LUX,Luxembourg,Western Europe,2005,465158,0.0,0.011,14.178,0.582,14.771,0.073,False,True,True,Microstate (<1.5M population)
+LUX,Luxembourg,Western Europe,2015,569604,0.0,0.014,17.924,1.289,19.227,0.073,False,True,True,Microstate (<1.5M population)
+LUX,Luxembourg,Western Europe,2024,677012,0.0,0.012,14.267,2.07,16.349,0.072,False,True,True,Microstate (<1.5M population)
+LVA,Latvia,Central & Eastern Europe,1995,2485056,60.036,0.211,14.242,-24.294,50.195,120.027,False,False,False,Standard
+LVA,Latvia,Central & Eastern Europe,2005,2238799,67.276,0.242,0.53,-34.072,33.977,198.72,False,False,False,Standard
+LVA,Latvia,Central & Eastern Europe,2015,1977527,41.132,0.436,5.57,-25.399,21.74,191.21,False,False,False,Standard
+LVA,Latvia,Central & Eastern Europe,2024,1866124,30.206,0.398,15.01,-17.072,28.542,107.224,False,False,False,Standard
+MLT,Malta,Southern Europe,1995,377419,12.283,2.395,6.366,10.448,31.493,46.609,False,True,True,Microstate (<1.5M population)
+MLT,Malta,Southern Europe,2005,403834,3.482,1.823,34.998,3.693,43.996,12.056,False,True,True,Microstate (<1.5M population)
+MLT,Malta,Southern Europe,2015,444220,5.771,24.312,48.713,-1.324,77.472,38.831,False,True,True,Microstate (<1.5M population)
+MLT,Malta,Southern Europe,2024,568847,3.172,31.562,77.274,4.021,116.028,29.936,False,True,True,Microstate (<1.5M population)
+NLD,Netherlands (Kingdom of the),Western Europe,1995,15459006,28.34,5.433,18.733,-14.695,37.811,89.319,True,False,True,Logistical re-export hub
+NLD,Netherlands (Kingdom of the),Western Europe,2005,16319868,34.054,4.385,10.977,-28.047,21.37,179.876,True,False,True,Logistical re-export hub
+NLD,Netherlands (Kingdom of the),Western Europe,2015,16939923,22.696,3.681,-0.6,-18.142,7.635,345.461,True,False,True,Logistical re-export hub
+NLD,Netherlands (Kingdom of the),Western Europe,2024,17993485,16.497,1.855,2.104,-15.379,5.078,361.433,True,False,True,Logistical re-export hub
+NOR,Norway,Northern Europe,1995,4359184,625.195,63.685,-174.4,-67.857,446.624,154.242,False,False,False,Standard
+NOR,Norway,Northern Europe,2005,4623291,555.609,143.161,-140.41,-163.489,394.872,176.961,False,False,False,Standard
+NOR,Norway,Northern Europe,2015,5188607,473.262,266.139,-249.878,-136.873,352.649,209.67,False,False,False,Standard
+NOR,Norway,Northern Europe,2024,5572279,418.013,299.204,-218.3,-149.513,349.405,205.268,False,False,False,Standard
+POL,Poland,Central & Eastern Europe,1995,38594998,11.125,0.651,1.516,-1.024,12.268,95.99,False,False,False,Standard
+POL,Poland,Central & Eastern Europe,2005,38165445,3.911,0.994,2.475,0.788,8.167,60.049,False,False,False,Standard
+POL,Poland,Central & Eastern Europe,2015,37986412,5.25,0.883,0.945,3.156,10.234,59.93,False,False,False,Standard
+POL,Poland,Central & Eastern Europe,2024,36559233,3.85,1.191,2.134,3.899,11.074,45.522,False,False,False,Standard
+PRT,Portugal,Southern Europe,1995,10026176,26.711,0.497,11.65,6.615,45.474,59.833,False,False,False,Standard
+PRT,Portugal,Southern Europe,2005,10503330,21.049,0.638,15.12,8.369,45.175,48.006,False,False,False,Standard
+PRT,Portugal,Southern Europe,2015,10358076,18.353,0.923,10.776,9.136,39.188,49.188,False,False,False,Standard
+PRT,Portugal,Southern Europe,2024,10694681,22.161,2.275,7.285,11.757,43.479,56.203,False,False,False,Standard
+ROU,Romania,Central & Eastern Europe,1995,22684270,2.172,0.874,0.886,0.09,4.023,75.727,False,False,False,Standard
+ROU,Romania,Central & Eastern Europe,2005,21319685,0.284,0.342,2.274,2.255,5.154,12.138,False,False,False,Standard
+ROU,Romania,Central & Eastern Europe,2015,19815616,0.47,0.556,4.242,0.565,5.833,17.589,False,False,False,Standard
+ROU,Romania,Central & Eastern Europe,2024,19051804,0.302,0.528,4.997,0.704,6.531,12.712,False,False,False,Standard
+SVK,Slovakia,Central & Eastern Europe,1995,5361999,0.364,0.302,4.941,0.58,6.186,10.753,False,False,False,Standard
+SVK,Slovakia,Central & Eastern Europe,2005,5372807,0.315,0.178,3.024,1.583,5.1,9.665,False,False,False,Standard
+SVK,Slovakia,Central & Eastern Europe,2015,5423801,0.363,0.241,3.177,2.151,5.932,10.193,False,False,False,Standard
+SVK,Slovakia,Central & Eastern Europe,2024,5422069,0.28,0.451,3.094,1.729,5.554,13.153,False,False,False,Standard
+SVN,Slovenia,Central & Eastern Europe,1995,1989872,1.089,0.397,5.353,1.008,7.847,18.932,False,False,False,Standard
+SVN,Slovenia,Central & Eastern Europe,2005,2000474,0.613,0.673,5.087,0.694,7.067,18.2,False,False,False,Standard
+SVN,Slovenia,Central & Eastern Europe,2015,2063531,0.166,0.784,3.928,2.052,6.931,13.709,False,False,False,Standard
+SVN,Slovenia,Central & Eastern Europe,2024,2127400,0.105,0.518,4.863,1.72,7.206,8.643,False,False,False,Standard
+SWE,Sweden,Northern Europe,1995,8826939,45.84,0.856,-13.857,1.227,34.067,137.072,False,False,False,Standard
+SWE,Sweden,Northern Europe,2005,9029572,28.391,0.651,-1.558,-0.524,26.961,107.721,False,False,False,Standard
+SWE,Sweden,Northern Europe,2015,9799186,21.631,1.227,-3.567,2.822,22.112,103.37,False,False,False,Standard
+SWE,Sweden,Northern Europe,2024,10569709,13.207,0.952,0.638,2.069,16.866,83.947,False,False,False,Standard
+TUR,Türkiye,Southern Europe,1995,61024503,10.34,0.354,0.035,0.297,11.026,96.989,False,False,False,Standard
+TUR,Türkiye,Southern Europe,2005,69329557,6.152,1.725,0.233,0.39,8.499,92.677,False,False,False,Standard
+TUR,Türkiye,Southern Europe,2015,78218479,5.522,3.073,0.711,0.695,10.001,85.938,False,False,False,Standard
+TUR,Türkiye,Southern Europe,2024,85518661,4.163,6.749,-0.598,1.152,11.466,95.166,False,False,False,Standard

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or empirical data pipeline, please cite it as below."
+authors:
+  - family-names: "Tunca"
+    given-names: "Sezgin"
+    orcid: "https://orcid.org/0000-0001-6840-1466"
+    affiliation: "Department of Business and Sustainability, University of Southern Denmark, Campusvej 55, DK-5230 Odense M, Denmark"
+title: "Replication Codebase: Continental Trade Specialization Sustains European Aquatic Food Security Beyond Local Ecological Boundaries"
+version: 1.0.0
+doi: 10.5281/zenodo.24085138
+date-released: 2026-11-11
+url: "https://github.com/SezginTunca/european-aquatic-food-trade-security"
+

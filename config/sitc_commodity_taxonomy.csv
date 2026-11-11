@@ -1,0 +1,13 @@
+Revision,Revision_Name,Year_Start,Year_End,SITC_Code,SITC_Description,Harmonized_Category,HS_Correspondence
+S1,SITC Rev. 1,1962,1975,0311,"Fish, fresh, chilled or frozen","Fresh, Chilled & Frozen Finfish","0301, 0302, 0303, 0304"
+S1,SITC Rev. 1,1962,1975,0312,"Fish, salted, dried or smoked","Dried, Salted, Brined & Smoked Fish",0305
+S1,SITC Rev. 1,1962,1975,0313,"Crustacea & molluscs, fresh, chilled, salted, dried","Crustaceans, Molluscs & Aquatic Invertebrates","0306, 0307, 0308"
+S1,SITC Rev. 1,1962,1975,0320,Fish and fish preparations in airtight containers (including caviar),Prepared & Preserved Seafood (Canned / Caviar),"1604, 1605"
+S2,SITC Rev. 2,1976,1987,034,"Fish, fresh (live or dead), chilled or frozen","Fresh, Chilled & Frozen Finfish","0301, 0302, 0303, 0304"
+S2,SITC Rev. 2,1976,1987,035,"Fish, dried, salted or in brine; smoked fish","Dried, Salted, Brined & Smoked Fish",0305
+S2,SITC Rev. 2,1976,1987,036,"Crustaceans and molluscs, whether in shell or not","Crustaceans, Molluscs & Aquatic Invertebrates","0306, 0307, 0308"
+S2,SITC Rev. 2,1976,1987,037,"Fish, crustaceans and molluscs, prepared or preserved",Prepared & Preserved Seafood (Canned / Caviar),"1604, 1605"
+S3,SITC Rev. 3 / Harmonized HS,1988,2025,034,"Fish, fresh, chilled or frozen","Fresh, Chilled & Frozen Finfish","0301, 0302, 0303, 0304"
+S3,SITC Rev. 3 / Harmonized HS,1988,2025,035,"Fish, dried, salted or in brine; smoked fish","Dried, Salted, Brined & Smoked Fish",0305
+S3,SITC Rev. 3 / Harmonized HS,1988,2025,036,"Crustaceans, molluscs, aquatic invertebrates","Crustaceans, Molluscs & Aquatic Invertebrates","0306, 0307, 0308"
+S3,SITC Rev. 3 / Harmonized HS,1988,2025,037,"Fish, crustaceans, molluscs, aquatic invertebrates, prepared or preserved",Prepared & Preserved Seafood (Canned / Caviar),"1604, 1605"

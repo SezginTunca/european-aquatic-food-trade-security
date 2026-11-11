@@ -1,0 +1,33 @@
+Reporter_ISO3,Country_Name,Institutional_Status,European_Cluster,Export_Value_USD_M,Import_Value_USD_M,MTL_Export_Overall,MTL_Import_Overall,Ecological_Trophic_Spread,MTL_Export_Intra_EU,MTL_Import_Intra_EU,Trophic_Archetype
+NOR,"Norway, excluding Svalbard and Jan Mayen",EEA EFTA State,Norway,133757.0,6211.2,3.84,3.44,0.4,3.87,3.47,Mid-High Exporter (Seabass/Seabream)
+SWE,Sweden,EU Member State,Northern Europe,51480.7,60427.8,3.87,3.82,0.05,3.87,3.83,Mid-High Exporter (Seabass/Seabream)
+ESP,Spain,EU Member State,Southern Europe,46741.3,87443.9,3.73,3.6,0.13,3.66,3.58,Mid-High Exporter (Seabass/Seabream)
+NLD,Netherlands,EU Member State,Western Europe,45449.8,35116.4,3.42,3.46,-0.04,3.39,3.52,Low/Mid Trophic / Mixed
+DNK,Denmark,EU Member State,Northern Europe,37068.7,30641.8,3.53,3.56,-0.02,3.55,3.77,Mid-High Exporter (Seabass/Seabream)
+POL,Poland,EU Member State,Eastern & Baltic Europe,24854.2,30082.1,3.77,3.8,-0.03,3.78,3.8,Mid-High Exporter (Seabass/Seabream)
+GBR,United Kingdom,Former EU Member (TCA Partner),United Kingdom,22988.5,45306.2,3.45,3.64,-0.2,3.38,3.74,Low/Mid Trophic / Mixed
+ISL,Iceland,EEA EFTA State,Iceland (Nordic/Atlantic),19423.1,985.8,3.76,3.14,0.62,3.78,3.08,Mid-High Exporter (Seabass/Seabream)
+DEU,Germany,EU Member State,Western Europe,19134.7,55872.1,3.62,3.67,-0.05,3.62,3.67,Mid-High Exporter (Seabass/Seabream)
+FRA,Metropolitan France,EU Member State,Western Europe,17732.8,73479.5,3.41,3.52,-0.11,3.41,3.6,Low/Mid Trophic / Mixed
+TUR,Türkiye,EU Customs Union & Candidate,Türkiye,12396.8,2748.4,3.61,3.77,-0.15,3.52,3.84,Mid-High Exporter (Seabass/Seabream)
+PRT,Portugal,EU Member State,Southern Europe,11702.0,26292.6,3.67,3.69,-0.02,3.65,3.72,Mid-High Exporter (Seabass/Seabream)
+GRC,Greece,EU Member State,Southern Europe,9248.2,6703.9,3.55,3.6,-0.05,3.54,3.68,Mid-High Exporter (Seabass/Seabream)
+ITA,Italy,EU Member State,Southern Europe,8674.6,72532.8,3.67,3.64,0.03,3.65,3.63,Mid-High Exporter (Seabass/Seabream)
+IRL,Ireland,EU Member State,Western Europe,6630.4,3532.6,3.21,3.57,-0.37,3.19,3.56,Low/Mid Trophic / Mixed
+BEL,Belgium-Luxembourg (...1998),EU Member State,Western Europe,6408.9,18171.6,3.3,3.35,-0.05,3.3,3.44,Low/Mid Trophic / Mixed
+LTU,Lithuania,EU Member State,Eastern & Baltic Europe,6242.5,6316.0,3.74,3.78,-0.05,3.75,3.78,Mid-High Exporter (Seabass/Seabream)
+HRV,Croatia,EU Member State,Southern Europe,2797.4,2307.4,3.58,3.67,-0.08,3.44,3.67,Mid-High Exporter (Seabass/Seabream)
+LVA,Latvia,EU Member State,Eastern & Baltic Europe,2378.4,2314.8,3.59,3.64,-0.05,3.69,3.65,Mid-High Exporter (Seabass/Seabream)
+CZE,Czechia,EU Member State,Central & Western Europe,2287.0,4258.8,3.59,3.74,-0.16,3.59,3.78,Mid-High Exporter (Seabass/Seabream)
+FIN,Finland,EU Member State,Northern Europe,2076.9,5773.1,3.79,3.79,0.0,3.81,3.77,Mid-High Exporter (Seabass/Seabream)
+MLT,Malta,EU Member State,Southern Europe,2024.1,1708.4,4.35,3.99,0.36,3.45,3.89,High-Trophic Exporter (Salmon/Pelagics)
+EST,Estonia,EU Member State,Eastern & Baltic Europe,1792.5,1760.9,3.34,3.57,-0.23,3.4,3.63,Low/Mid Trophic / Mixed
+AUT,Austria,EU Member State,Central & Western Europe,899.1,6163.1,3.76,3.65,0.11,3.76,3.71,Mid-High Exporter (Seabass/Seabream)
+BGR,Bulgaria,EU Member State,Eastern & Baltic Europe,802.9,1415.0,3.11,3.49,-0.39,3.25,3.52,Low/Mid Trophic / Mixed
+ROU,Romania,EU Member State,Eastern & Baltic Europe,531.3,4115.5,2.84,3.54,-0.7,2.63,3.6,Low/Mid Trophic / Mixed
+CYP,Cyprus,EU Member State,Southern Europe,409.5,1000.3,3.55,3.58,-0.03,3.89,3.62,Mid-High Exporter (Seabass/Seabream)
+SVN,Slovenia,EU Member State,Southern Europe,364.8,1348.4,3.75,3.77,-0.01,3.69,3.78,Mid-High Exporter (Seabass/Seabream)
+HUN,Hungary,EU Member State,Central & Western Europe,228.2,1210.1,3.14,3.65,-0.51,3.11,3.66,Low/Mid Trophic / Mixed
+LUX,Luxembourg,EU Member State,Western Europe,155.6,1343.9,3.45,3.51,-0.05,3.45,3.55,Low/Mid Trophic / Mixed
+SVK,Slovakia,EU Member State,Central & Western Europe,147.8,1383.7,3.65,3.75,-0.1,3.65,3.77,Mid-High Exporter (Seabass/Seabream)
+CHE,Switzerland,EFTA State,Switzerland (Central Europe),55.8,8757.6,3.49,3.56,-0.06,3.48,3.61,Low/Mid Trophic / Mixed

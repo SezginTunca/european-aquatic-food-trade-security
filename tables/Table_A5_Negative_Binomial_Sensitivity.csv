@@ -1,0 +1,13 @@
+Model,Estimator,Dependent_Variable,Variable,Coefficient,Std_Error,Z_Statistic,P_Value,CI_95_Lower,CI_95_Upper,Incidence_Rate_Ratio_IRR
+Model 1: All Hazards,Negative Binomial GLM,Notifications_All,Intercept,-8.8188,0.4879,-18.074,0.0,-9.7752,-7.8625,0.0001
+Model 1: All Hazards,Negative Binomial GLM,Notifications_All,Is_Extra_European_int,0.9707,0.2267,4.283,1.8e-05,0.5264,1.4149,2.6397
+Model 1: All Hazards,Negative Binomial GLM,Notifications_All,Trophic_Level,-0.6352,0.1519,-4.182,2.9e-05,-0.9328,-0.3375,0.5299
+Model 2: Heavy Metals (H5b),Negative Binomial GLM,Notifications_Metals,Intercept,-17.6704,2.4805,-7.124,0.0,-22.5322,-12.8086,0.0
+Model 2: Heavy Metals (H5b),Negative Binomial GLM,Notifications_Metals,Is_Extra_European_int,0.3905,0.6512,0.6,0.548747,-0.8858,1.6667,1.4777
+Model 2: Heavy Metals (H5b),Negative Binomial GLM,Notifications_Metals,Trophic_Level,1.1985,0.7118,1.684,0.092207,-0.1965,2.5936,3.3152
+Model 3: Veterinary Residues (H5a),Negative Binomial GLM,Notifications_Residues,Intercept,-9.4193,0.4409,-21.364,0.0,-10.2835,-8.5552,0.0001
+Model 3: Veterinary Residues (H5a),Negative Binomial GLM,Notifications_Residues,Is_Extra_European_int,1.9626,0.2751,7.135,0.0,1.4235,2.5018,7.118
+Model 3: Veterinary Residues (H5a),Negative Binomial GLM,Notifications_Residues,Trophic_Level,-1.2679,0.1313,-9.654,0.0,-1.5253,-1.0105,0.2814
+Model 4: Microbial Pathogens (H5c),Negative Binomial GLM,Notifications_Microbial,Intercept,-6.7406,0.7457,-9.04,0.0,-8.2021,-5.2792,0.0012
+Model 4: Microbial Pathogens (H5c),Negative Binomial GLM,Notifications_Microbial,Is_Extra_European_int,-0.4597,0.3625,-1.268,0.204837,-1.1702,0.2509,0.6315
+Model 4: Microbial Pathogens (H5c),Negative Binomial GLM,Notifications_Microbial,Trophic_Level,-1.593,0.2301,-6.924,0.0,-2.044,-1.1421,0.2033

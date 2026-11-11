@@ -1,0 +1,18 @@
+Species_Group,Affordability_Tier,Central & Eastern Europe,Western Europe,Southern Europe,Northern Europe,CEE_to_West_Price_Ratio
+Atlantic & Pacific Salmon,High-Value Industrial Salmonid,7.484,9.956,9.261,7.69,0.752
+Bluefin Tuna & Major Tunas,Apex Pelagic Commodity,5.798,5.436,4.618,5.626,1.067
+"Cod, Hake, Pollock & Whitefish",Mid-Trophic Whitefish Baseline,3.459,4.047,5.097,3.606,0.855
+"Crabs, Lobsters & Other Crustaceans",Luxury Crustacean,11.142,13.23,11.516,13.04,0.842
+European Seabass,Mediterranean Premium Mariculture,7.076,9.563,6.662,8.836,0.74
+Flatfish & Turbot,Mid-Trophic Demersal,4.124,6.043,6.305,5.622,0.682
+Gilthead Seabream,Mediterranean Premium Mariculture,6.468,7.017,5.985,8.011,0.922
+"Herring, Sardines & Small Pelagics",Low-Trophic Affordable Finfish,1.721,2.446,2.285,1.002,0.704
+Live Aquaculture Fry & Ornamental,Aquaculture Inputs,10.222,15.307,9.433,17.91,0.668
+Mackerel & Horse Mackerel,Low-Trophic Affordable Finfish,1.796,1.371,1.488,1.588,1.31
+"Mussels, Oysters & Bivalves",Low-Trophic Shellfish,4.522,5.135,3.149,7.856,0.881
+Other Marine & Freshwater Finfish,General Marine Finfish,3.51,6.025,5.828,3.838,0.583
+"Pangasius, Tilapia & Freshwater Catfish",Accessible Freshwater Aquaculture,2.97,4.037,3.935,4.352,0.736
+Rainbow & Freshwater Trout,Farmed Freshwater Salmonid,5.349,7.988,6.898,6.496,0.67
+"Sea Cucumber, Urchins & Invertebrates",Specialty Invertebrates,2.891,10.608,8.488,3.896,0.272
+Shrimp & Prawns,High-Value Crustacean,7.447,9.49,7.464,6.797,0.785
+"Squid, Cuttlefish & Octopus",Cephalopod Commodity,5.44,5.739,6.022,4.774,0.948

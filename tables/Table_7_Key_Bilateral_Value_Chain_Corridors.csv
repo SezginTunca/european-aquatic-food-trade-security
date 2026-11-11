@@ -1,0 +1,31 @@
+Corridor_Type,Source_Country,Destination_Country,Species_Group,Total_Trade_USD_M,Functional_Role
+Salmon Supply Pipeline,Norway (NOR),POL,Atlantic & Pacific Salmon,17693.85,Upstream Farmed Producer -> Processing / Logistics Hub
+Salmon Supply Pipeline,Norway (NOR),FRA,Atlantic & Pacific Salmon,17051.25,Upstream Farmed Producer -> Processing / Logistics Hub
+Salmon Supply Pipeline,Norway (NOR),DNK,Atlantic & Pacific Salmon,13117.22,Upstream Farmed Producer -> Processing / Logistics Hub
+Salmon Supply Pipeline,Norway (NOR),ESP,Atlantic & Pacific Salmon,9128.17,Upstream Farmed Producer -> Processing / Logistics Hub
+Salmon Supply Pipeline,Norway (NOR),NLD,Atlantic & Pacific Salmon,8518.15,Upstream Farmed Producer -> Processing / Logistics Hub
+Salmon Supply Pipeline,Norway (NOR),GBR,Atlantic & Pacific Salmon,7828.72,Upstream Farmed Producer -> Processing / Logistics Hub
+Salmon Re-export / Processing,Poland (POL),DEU,Atlantic & Pacific Salmon (Smoked/Fillets),13150.84,Value-Added Processing Hub -> Core Consumer Market
+Salmon Re-export / Processing,Poland (POL),ITA,Atlantic & Pacific Salmon (Smoked/Fillets),1793.05,Value-Added Processing Hub -> Core Consumer Market
+Salmon Re-export / Processing,Poland (POL),FRA,Atlantic & Pacific Salmon (Smoked/Fillets),1524.11,Value-Added Processing Hub -> Core Consumer Market
+Salmon Re-export / Processing,Poland (POL),DNK,Atlantic & Pacific Salmon (Smoked/Fillets),721.93,Value-Added Processing Hub -> Core Consumer Market
+Salmon Re-export / Processing,Poland (POL),SWE,Atlantic & Pacific Salmon (Smoked/Fillets),710.39,Value-Added Processing Hub -> Core Consumer Market
+Mediterranean Seabass/Seabream Corridor,Türkiye (TUR),ITA,European Seabass & Gilthead Seabream,881.51,Non-EU Aquaculture Powerhouse -> Mediterranean & Central EU
+Mediterranean Seabass/Seabream Corridor,Türkiye (TUR),NLD,European Seabass & Gilthead Seabream,722.59,Non-EU Aquaculture Powerhouse -> Mediterranean & Central EU
+Mediterranean Seabass/Seabream Corridor,Türkiye (TUR),GRC,European Seabass & Gilthead Seabream,576.29,Non-EU Aquaculture Powerhouse -> Mediterranean & Central EU
+Mediterranean Seabass/Seabream Corridor,Türkiye (TUR),GBR,European Seabass & Gilthead Seabream,485.84,Non-EU Aquaculture Powerhouse -> Mediterranean & Central EU
+Mediterranean Seabass/Seabream Corridor,Türkiye (TUR),ESP,European Seabass & Gilthead Seabream,432.83,Non-EU Aquaculture Powerhouse -> Mediterranean & Central EU
+Mediterranean Seabass/Seabream Corridor,Türkiye (TUR),PRT,European Seabass & Gilthead Seabream,242.05,Non-EU Aquaculture Powerhouse -> Mediterranean & Central EU
+Mediterranean Seabass/Seabream Corridor,Greece (GRC),ITA,European Seabass & Gilthead Seabream,3360.22,Intra-EU Aquaculture Producer -> Intra-Single Market Consumers
+Mediterranean Seabass/Seabream Corridor,Greece (GRC),ESP,European Seabass & Gilthead Seabream,1875.27,Intra-EU Aquaculture Producer -> Intra-Single Market Consumers
+Mediterranean Seabass/Seabream Corridor,Greece (GRC),FRA,European Seabass & Gilthead Seabream,916.03,Intra-EU Aquaculture Producer -> Intra-Single Market Consumers
+Mediterranean Seabass/Seabream Corridor,Greece (GRC),PRT,European Seabass & Gilthead Seabream,488.17,Intra-EU Aquaculture Producer -> Intra-Single Market Consumers
+Mediterranean Seabass/Seabream Corridor,Greece (GRC),DEU,European Seabass & Gilthead Seabream,301.36,Intra-EU Aquaculture Producer -> Intra-Single Market Consumers
+North Atlantic Whitefish Corridor,Iceland (ISL),GBR,"Cod, Hake, Pollock & Whitefish",3604.62,North Atlantic Demersal Harvester -> European Processing/Retail
+North Atlantic Whitefish Corridor,Iceland (ISL),PRT,"Cod, Hake, Pollock & Whitefish",2350.73,North Atlantic Demersal Harvester -> European Processing/Retail
+North Atlantic Whitefish Corridor,Iceland (ISL),ESP,"Cod, Hake, Pollock & Whitefish",2169.0,North Atlantic Demersal Harvester -> European Processing/Retail
+North Atlantic Whitefish Corridor,Iceland (ISL),NLD,"Cod, Hake, Pollock & Whitefish",947.44,North Atlantic Demersal Harvester -> European Processing/Retail
+UK-EU Post-TCA Trade Corridor,United Kingdom (GBR),FRA,"Pelagics, Crustaceans & Scottish Salmon",15479.15,Key External Neighbor -> Cross-Channel EU Gateways
+UK-EU Post-TCA Trade Corridor,United Kingdom (GBR),ESP,"Pelagics, Crustaceans & Scottish Salmon",5626.09,Key External Neighbor -> Cross-Channel EU Gateways
+UK-EU Post-TCA Trade Corridor,United Kingdom (GBR),IRL,"Pelagics, Crustaceans & Scottish Salmon",3112.68,Key External Neighbor -> Cross-Channel EU Gateways
+UK-EU Post-TCA Trade Corridor,United Kingdom (GBR),ITA,"Pelagics, Crustaceans & Scottish Salmon",3043.83,Key External Neighbor -> Cross-Channel EU Gateways

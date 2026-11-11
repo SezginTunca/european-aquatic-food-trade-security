@@ -1,0 +1,5 @@
+Model,Out_of_Sample_R2,RMSE,MAE,Pearson_r
+Baseline 1: Standard OLS Linear Gravity,0.04,3.338,2.7075,0.2046
+Baseline 2: Regularized Ridge Gravity,0.04,3.338,2.7075,0.2046
+Model 3: Random Forest Regressor,0.2349,2.9801,2.3902,0.4908
+Model 4: Extreme Gradient Boosting (XGBoost),0.2632,2.9244,2.3585,0.5228

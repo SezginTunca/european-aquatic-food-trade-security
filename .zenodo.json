@@ -1,0 +1,35 @@
+{
+  "title": "Replication Codebase: Continental Trade Specialization Sustains European Aquatic Food Security Beyond Local Ecological Boundaries",
+  "description": "Complete replication codebase and analytical synthesis matrices for 'Continental Trade Specialization Sustains European Aquatic Food Security Beyond Local Ecological Boundaries' published in Frontiers in Sustainable Food Systems. Contains modular Python scripts for data harmonization, econometric trade indices (Balassa RCA, GHM IIT, HHI), gravity network modeling (structural PPML and ML TreeSHAP), food safety hazard modeling, consumer access buffering, ecological harvest displacement, nutrient pricing, extra-EU partner sourcing, and constrained Markowitz-Pareto portfolio optimization.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    {
+      "name": "Tunca, Sezgin",
+      "affiliation": "Department of Business and Sustainability, University of Southern Denmark, Campusvej 55, DK-5230 Odense M, Denmark",
+      "orcid": "0000-0001-6840-1466"
+    }
+  ],
+  "keywords": [
+    "aquatic food security",
+    "international trade",
+    "seafood supply chains",
+    "gravity models",
+    "PPML",
+    "XGBoost",
+    "TreeSHAP",
+    "ecological displacement",
+    "nutritional security",
+    "portfolio optimization",
+    "European Union"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/SezginTunca/european-aquatic-food-trade-security",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
+

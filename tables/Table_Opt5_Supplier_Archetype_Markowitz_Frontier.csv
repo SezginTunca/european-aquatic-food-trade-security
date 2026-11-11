@@ -1,0 +1,27 @@
+Record_Type,Label,Portfolio_CV_Pct,Unit_Cost_USD_KG,Hazard_Rate_per_100kt,LWE_Multiplier,Intra_EU_Share_Pct
+Individual_Archetype,Intra-European Core,10.8653,5.6898,1.597,1.5007,61.69
+Individual_Archetype,Cold-Water Farmed Salmonids,18.9902,4.4865,1.92,1.6418,2.65
+Individual_Archetype,North Atlantic & Arctic Capture,26.6779,4.3401,0.267,1.6767,3.66
+Individual_Archetype,Upwelling & Ocean Tuna Fisheries,10.9737,5.1635,4.443,1.6424,6.33
+Individual_Archetype,Tropical Farmed Aquaculture,11.5885,5.9824,5.302,1.6945,8.17
+Individual_Archetype,Other Third Countries,14.9816,5.4415,5.248,1.6232,7.38
+Individual_Archetype,Global Processing Hubs,26.7101,4.5012,3.106,2.2324,5.54
+Individual_Archetype,Americas Marine Capture,16.7259,5.5264,1.814,1.9364,4.58
+Observed_Portfolio,Observed Pan-European Sourcing (2015–2024),9.4647,5.5075,2.4029,1.6052,61.69
+Markowitz_Frontier,Alpha_0.00,9.4632,5.5075,2.1734,1.5643,69.76
+Markowitz_Frontier,Alpha_0.06,9.4359,5.5075,2.1855,1.5651,69.32
+Markowitz_Frontier,Alpha_0.12,9.4088,5.5075,2.1976,1.5659,68.88
+Markowitz_Frontier,Alpha_0.19,9.3818,5.5075,2.2097,1.5668,68.45
+Markowitz_Frontier,Alpha_0.25,9.3551,5.5075,2.2218,1.5676,68.01
+Markowitz_Frontier,Alpha_0.31,9.3284,5.5075,2.2339,1.5684,67.58
+Markowitz_Frontier,Alpha_0.38,9.302,5.5075,2.246,1.5693,67.14
+Markowitz_Frontier,Alpha_0.44,9.2757,5.5075,2.2581,1.5701,66.7
+Markowitz_Frontier,Alpha_0.50,9.2496,5.5075,2.2701,1.5709,66.27
+Markowitz_Frontier,Alpha_0.56,9.2237,5.5075,2.2822,1.5718,65.83
+Markowitz_Frontier,Alpha_0.62,9.198,5.5075,2.2943,1.5726,65.39
+Markowitz_Frontier,Alpha_0.69,9.1724,5.5075,2.3064,1.5734,64.96
+Markowitz_Frontier,Alpha_0.75,9.147,5.5075,2.3185,1.5743,64.52
+Markowitz_Frontier,Alpha_0.81,9.1218,5.5075,2.3306,1.5751,64.09
+Markowitz_Frontier,Alpha_0.88,9.0968,5.5075,2.3427,1.576,63.65
+Markowitz_Frontier,Alpha_0.94,9.0719,5.5075,2.3548,1.5768,63.21
+Markowitz_Frontier,Alpha_1.00,9.0473,5.5075,2.3668,1.5776,62.78

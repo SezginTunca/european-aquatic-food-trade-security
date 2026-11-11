@@ -1,0 +1,16 @@
+Feature,Mean_Absolute_SHAP,Relative_Importance_Pct
+Exporter_RCA,0.6012,20.88
+Contiguity,0.5447,18.92
+Log_Distance,0.4373,15.19
+Importer_Self_Sufficiency_Pct,0.3445,11.97
+Trophic_Level,0.3179,11.04
+Processing_Form_Ordinal,0.1841,6.39
+Post_2014_Russian_Ban,0.1602,5.56
+Is_Intra_EU27,0.084,2.92
+Is_Norway_Corridor,0.0598,2.08
+Post_2004_Enlargement,0.0557,1.93
+Is_Iceland_Corridor,0.0334,1.16
+Is_Switzerland_Corridor,0.0251,0.87
+Is_UK_Corridor,0.0241,0.84
+Is_Turkey_Corridor,0.0072,0.25
+Post_2020_Brexit_COVID,0.0,0.0

@@ -1,0 +1,13 @@
+Model,Estimator,Dependent_Variable,Variable,Coefficient,Std_Error,Z_Statistic,P_Value,CI_95_Lower,CI_95_Upper,Incidence_Rate_Ratio_IRR
+Model 1: All Hazards,"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_All,Intercept,-9.003,0.453,-19.872,0.0,-9.891,-8.1151,0.0001
+Model 1: All Hazards,"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_All,Is_Extra_European_int,0.9483,0.2566,3.696,0.000219,0.4455,1.4511,2.5813
+Model 1: All Hazards,"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_All,Trophic_Level,-0.6304,0.141,-4.471,8e-06,-0.9068,-0.354,0.5324
+Model 2: Heavy Metals (H5b),"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_Metals,Intercept,-18.0346,3.3014,-5.463,0.0,-24.5053,-11.5639,0.0
+Model 2: Heavy Metals (H5b),"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_Metals,Is_Extra_European_int,0.3161,0.7812,0.405,0.685782,-1.2151,1.8472,1.3717
+Model 2: Heavy Metals (H5b),"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_Metals,Trophic_Level,1.2843,0.9325,1.377,0.168446,-0.5435,3.112,3.612
+Model 3: Veterinary Residues (H5a),"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_Residues,Intercept,-9.6881,0.4131,-23.453,0.0,-10.4978,-8.8785,0.0001
+Model 3: Veterinary Residues (H5a),"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_Residues,Is_Extra_European_int,1.92,0.2718,7.063,0.0,1.3872,2.4527,6.8207
+Model 3: Veterinary Residues (H5a),"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_Residues,Trophic_Level,-1.2134,0.124,-9.785,0.0,-1.4564,-0.9704,0.2972
+Model 4: Microbial Pathogens (H5c),"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_Microbial,Intercept,-6.6448,0.7505,-8.854,0.0,-8.1159,-5.1738,0.0013
+Model 4: Microbial Pathogens (H5c),"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_Microbial,Is_Extra_European_int,-0.4287,0.365,-1.175,0.240193,-1.1441,0.2867,0.6514
+Model 4: Microbial Pathogens (H5c),"Poisson GLM (Offset, Dyad-Clustered SE)",Notifications_Microbial,Trophic_Level,-1.623,0.2268,-7.156,0.0,-2.0675,-1.1785,0.1973

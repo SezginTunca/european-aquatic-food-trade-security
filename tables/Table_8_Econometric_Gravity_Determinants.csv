@@ -1,0 +1,10 @@
+Variable,Economic_Interpretation,Coefficient,Std_Error,t_Statistic,p_Value,Conf_Int_95_Lower,Conf_Int_95_Upper
+Intercept,Baseline Constant (ln USD),12.6572,0.0792,159.86,0.0000***,12.502,12.8124
+Intra_EU27_Dummy,Intra-EU27 Single Market Integration Effect,0.5554,0.0787,7.06,0.0000***,0.4012,0.7097
+Norway_Corridor_Dummy,Norway-EU Salmonid Corridor Trade Effect,1.7824,0.1137,15.67,0.0000***,1.5595,2.0053
+Turkey_Corridor_Dummy,Türkiye-EU Customs Union & Aquaculture Effect,-0.2339,0.107,-2.19,0.0288*,-0.4435,-0.0242
+Iceland_Corridor_Dummy,Iceland-EU North Atlantic EFTA Effect,0.3733,0.1176,3.17,0.0015**,0.1428,0.6037
+UK_Corridor_Dummy,UK-EU Bilateral Cross-Channel Trade Effect,1.6039,0.1045,15.35,0.0000***,1.3991,1.8087
+Post_2004_Enlargement,2004 Eastern Enlargement Shock (10 New Member States),0.6926,0.0477,14.51,0.0000***,0.5991,0.7862
+Post_2014_Russian_Ban,2014 Russian Countersanctions Trade Re-routing,0.5951,0.0547,10.88,0.0000***,0.4879,0.7022
+Post_2020_Brexit_COVID,2020 Brexit Transition & COVID-19 Disruption,0.1341,0.0605,2.22,0.0268*,0.0154,0.2527

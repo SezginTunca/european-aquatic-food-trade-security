@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Microdata Exclusion (Open Data Access via Custodian APIs)
+data/derived/
+data/raw/
+*.parquet
+*.npz
+*.tar.gz
+*.zip
+*.bin
+
+# Output directories (generated locally during replication)
+figures/*.png
+figures/*.pdf
+tables/*.xlsx
+
+# Environment & IDE
+.env
+.venv/
+env/
+venv/
+.DS_Store
+.idea/
+.vscode/
+

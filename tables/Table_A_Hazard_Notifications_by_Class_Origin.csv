@@ -1,0 +1,8 @@
+Hazard_Class,Extra_European_Count,Intra_European_Count,Total_Count,Extra_Share_Pct,Intra_Share_Pct,Extra_Rate_per_100kt,Intra_Rate_per_100kt,Rate_Ratio_Extra_vs_Intra,Dominant_Agent,Dominant_Product_Category
+Biogenic Amines & Marine Toxins,73,140,213,34.27,65.73,0.1925,0.2287,0.84,Histamine,Tuna
+Cold-Chain Breakdown & Hygiene Deficiencies,552,54,606,91.09,8.91,1.4556,0.0882,16.5,Poor temperature control,Tuna
+Documentary & Traceability Non-Compliance,173,22,195,88.72,11.28,0.4562,0.0359,12.7,Issues with health certificate,Fish
+Heavy Metals,201,282,483,41.61,58.39,0.53,0.4606,1.15,Mercury,Swordfish
+Microbial Pathogens & Parasites,186,423,609,30.54,69.46,0.4905,0.6909,0.71,Listeria monocytogenes,Salmon
+Veterinary Residues & Chemical Additives,221,57,278,79.5,20.5,0.5828,0.0931,6.26,Nitrofurans,Shrimp
+All Hazard Classes Combined,1406,978,2384,58.98,41.02,3.7077,1.5974,2.32,Poor temperature control & Mercury,"Tuna, Shrimp, Swordfish"
