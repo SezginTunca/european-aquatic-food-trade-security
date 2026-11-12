@@ -6,7 +6,7 @@ Per open-science data governance guidelines and storage limits, raw microdata fi
 
 | Dataset | Source / Custodian | Public Access Link | Spatial / Temporal Coverage |
 | :--- | :--- | :--- | :--- |
-| **Bilateral Trade Microdata** | UN Comtrade / CEPII BACI | [UN Comtrade API](https://comtradeplus.un.org/) / [CEPII BACI](http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37) | Global bilateral flows, 1988–2025 (HS-6 & species level) |
+| **Bilateral Trade Microdata** | UN Comtrade / CEPII BACI | [UN Comtrade](https://comtradeplus.un.org/) / [CEPII BACI](http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37) | Global bilateral flows, 1988–2025 (HS-6 & species level) |
 | **Longitudinal Commodity Panel** | UN Comtrade SITC Rev.1 | [UN Comtrade Bulk](https://comtradeplus.un.org/) | 1962–2025, 4 processing categories |
 | **National Food Balance Sheets** | FAO Food Balance Sheets (FAOSTAT) | [FAOSTAT Food Balances](https://www.fao.org/faostat/en/#data/FBS) | European per-capita fish supply, 1961–2024 |
 | **Aquaculture & Capture Production** | FAO FishStatJ | [FAO Global Production](https://www.fao.org/fishery/en/statistics) | National marine catch and farming volumes, 1950–2024 |
